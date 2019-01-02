@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/priproject/tag/mentoring/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
-  <updated>2019-01-02T14:17:33+07:00</updated>
-  <id>http://localhost:4000/priproject/tag/mentoring/feed.xml</id>
+  <link href="https://congchu.github.io//tag/mentoring/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T15:25:00+07:00</updated>
+  <id>https://congchu.github.io//tag/mentoring/feed.xml</id>
 
   
   
@@ -25,20 +25,6 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
   
 
   
@@ -47,11 +33,11 @@
   
     <entry>
       <title type="html">멘토링 첫번째 기록 (2)</title>
-      <link href="http://localhost:4000/priproject/mentoring-record-1-2" rel="alternate" type="text/html" title="멘토링 첫번째 기록 (2)" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="멘토링 첫번째 기록 (2)" />
       <published>2017-07-27T17:00:00+07:00</published>
       <updated>2017-07-27T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/mentoring-record-1-2</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/mentoring-record-1-2">&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
+      <id>https://congchu.github.io//mentoring-record-1-2</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&quot;si시스템-통합-sm시스템-운영에-대하여&quot;&gt;SI(시스템 통합), SM(시스템 운영)에 대하여&lt;/h5&gt;
@@ -290,11 +276,11 @@ https://www.slideshare.net/pouu69/ss-58215884
   
     <entry>
       <title type="html">멘토링 첫번째 기록 (1)</title>
-      <link href="http://localhost:4000/priproject/mentoring-record-1-1" rel="alternate" type="text/html" title="멘토링 첫번째 기록 (1)" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="멘토링 첫번째 기록 (1)" />
       <published>2017-07-27T17:00:00+07:00</published>
       <updated>2017-07-27T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/mentoring-record-1-1</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/mentoring-record-1-1">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;멘티
+      <id>https://congchu.github.io//mentoring-record-1-1</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;멘티
 - 사회학계열 / 취춘생 / 교육 및 프로젝트 3-4개 보유
 - IT 회사에 대해 잘 모름
 - 자소서와 포트폴리오 피드백 요청

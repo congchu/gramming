@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/priproject/tag/preparing-job/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
-  <updated>2019-01-02T14:17:33+07:00</updated>
-  <id>http://localhost:4000/priproject/tag/preparing-job/feed.xml</id>
+  <link href="https://congchu.github.io//tag/preparing-job/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T15:25:00+07:00</updated>
+  <id>https://congchu.github.io//tag/preparing-job/feed.xml</id>
 
   
   
@@ -25,20 +25,6 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
   
 
   
@@ -47,11 +33,11 @@
   
     <entry>
       <title type="html">취업 준비 팁 목차</title>
-      <link href="http://localhost:4000/priproject/preparing-job-tip-1" rel="alternate" type="text/html" title="취업 준비 팁 목차" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="취업 준비 팁 목차" />
       <published>2018-12-23T17:00:00+07:00</published>
       <updated>2018-12-23T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/preparing-job-tip-1</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/preparing-job-tip-1">&lt;p&gt;IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다!
+      <id>https://congchu.github.io//preparing-job-tip-1</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;p&gt;IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다!
 &lt;br /&gt; 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)&lt;/p&gt;
 
 &lt;h3 id=&quot;내가-지원하려는-회사-파악하기&quot;&gt;내가 지원하려는 회사 파악하기&lt;/h3&gt;

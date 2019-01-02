@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/priproject/tag/understanding-programmers/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
-  <updated>2019-01-02T14:17:33+07:00</updated>
-  <id>http://localhost:4000/priproject/tag/understanding-programmers/feed.xml</id>
+  <link href="https://congchu.github.io//tag/understanding-programmers/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T15:25:00+07:00</updated>
+  <id>https://congchu.github.io//tag/understanding-programmers/feed.xml</id>
 
   
   
@@ -25,20 +25,6 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
   
 
   
@@ -47,11 +33,11 @@
   
     <entry>
       <title type="html">안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-tip-5" rel="alternate" type="text/html" title="안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?" />
       <published>2018-12-23T17:00:00+07:00</published>
       <updated>2018-12-23T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-tip-5</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-5">&lt;h2 id=&quot;분류-3---주로-하는-업무에-따른-분류&quot;&gt;분류 3 - 주로 하는 업무에 따른 분류&lt;/h2&gt;
+      <id>https://congchu.github.io//understanding-programmers-tip-5</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h2 id=&quot;분류-3---주로-하는-업무에-따른-분류&quot;&gt;분류 3 - 주로 하는 업무에 따른 분류&lt;/h2&gt;
 &lt;p&gt;아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;개발하는 개발자 (Developer / TechUser)&lt;/li&gt;
@@ -225,11 +211,11 @@
   
     <entry>
       <title type="html">안 흔한 개발자 분류 (2) 일하는 방식이 무엇?</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-tip-4" rel="alternate" type="text/html" title="안 흔한 개발자 분류 (2) 일하는 방식이 무엇?" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="안 흔한 개발자 분류 (2) 일하는 방식이 무엇?" />
       <published>2018-12-21T17:00:00+07:00</published>
       <updated>2018-12-21T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-tip-4</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-4">&lt;h3 id=&quot;분류-2---개발자-일하는-유형애-따른-분류&quot;&gt;분류 2 - 개발자 일하는 유형애 따른 분류&lt;/h3&gt;
+      <id>https://congchu.github.io//understanding-programmers-tip-4</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h3 id=&quot;분류-2---개발자-일하는-유형애-따른-분류&quot;&gt;분류 2 - 개발자 일하는 유형애 따른 분류&lt;/h3&gt;
 
 &lt;h4 id=&quot;스피드타입&quot;&gt;스피드타입&lt;/h4&gt;
 &lt;ul&gt;
@@ -305,11 +291,11 @@
   
     <entry>
       <title type="html">흔한 개발자 분류 (1) 사용하는 기술이 무엇?</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-tip-3" rel="alternate" type="text/html" title="흔한 개발자 분류 (1) 사용하는 기술이 무엇?" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="흔한 개발자 분류 (1) 사용하는 기술이 무엇?" />
       <published>2018-12-20T17:00:00+07:00</published>
       <updated>2018-12-20T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-tip-3</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-3">&lt;h2 id=&quot;흔한-개발자-분류--기술분야에-따른-구&quot;&gt;흔한 개발자 분류 : 기술분야에 따른 구&lt;/h2&gt;
+      <id>https://congchu.github.io//understanding-programmers-tip-3</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h2 id=&quot;흔한-개발자-분류--기술분야에-따른-구&quot;&gt;흔한 개발자 분류 : 기술분야에 따른 구&lt;/h2&gt;
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;h4 id=&quot;웹-개발자&quot;&gt;웹 개발자&lt;/h4&gt;
@@ -362,11 +348,11 @@
   
     <entry>
       <title type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-tip-2" rel="alternate" type="text/html" title="오해와 진실(2) 개발자는 개발만 잘하면 되나요?" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="오해와 진실(2) 개발자는 개발만 잘하면 되나요?" />
       <published>2018-12-18T17:00:00+07:00</published>
       <updated>2018-12-18T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-tip-2</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-2">&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;</content>
+      <id>https://congchu.github.io//understanding-programmers-tip-2</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;</content>
 
       
       
@@ -396,11 +382,11 @@
   
     <entry>
       <title type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-tip-1" rel="alternate" type="text/html" title="오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?" />
       <published>2018-12-17T17:00:00+07:00</published>
       <updated>2018-12-17T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-tip-1</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-1">&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
+      <id>https://congchu.github.io//understanding-programmers-tip-1</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
 &lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
 
 &lt;p&gt;내가 개발자와 맞는지 적성을 확인하는 방법이 무엇일까요??&lt;/p&gt;</content>
@@ -433,11 +419,11 @@
   
     <entry>
       <title type="html">개발자 이해하기 시리즈 목차</title>
-      <link href="http://localhost:4000/priproject/understanding-programmers-list" rel="alternate" type="text/html" title="개발자 이해하기 시리즈 목차" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="개발자 이해하기 시리즈 목차" />
       <published>2018-12-17T01:13:00+07:00</published>
       <updated>2018-12-17T01:13:00+07:00</updated>
-      <id>http://localhost:4000/priproject/understanding-programmers-list</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-list">&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
+      <id>https://congchu.github.io//understanding-programmers-list</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;

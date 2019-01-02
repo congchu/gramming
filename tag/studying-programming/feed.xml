@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/priproject/tag/studying-programming/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
-  <updated>2019-01-02T14:17:33+07:00</updated>
-  <id>http://localhost:4000/priproject/tag/studying-programming/feed.xml</id>
+  <link href="https://congchu.github.io//tag/studying-programming/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T15:25:00+07:00</updated>
+  <id>https://congchu.github.io//tag/studying-programming/feed.xml</id>
 
   
   
@@ -25,20 +25,6 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
   
 
   
@@ -47,11 +33,11 @@
   
     <entry>
       <title type="html">나에게 맞는 학습 방법 찾기</title>
-      <link href="http://localhost:4000/priproject/study-programming-tip-1" rel="alternate" type="text/html" title="나에게 맞는 학습 방법 찾기" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="나에게 맞는 학습 방법 찾기" />
       <published>2018-12-23T17:00:00+07:00</published>
       <updated>2018-12-23T17:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/study-programming-tip-1</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-1">&lt;p&gt;프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠.
+      <id>https://congchu.github.io//study-programming-tip-1</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;p&gt;프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠.
 계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.&lt;/p&gt;
 
 &lt;p&gt;지금까지와의 주어지는 것을 따라갔던 공부와는 달라야 합니다.
@@ -126,11 +112,11 @@
   
     <entry>
       <title type="html">프로그래밍의 다양한 스터디 방법 - 목차</title>
-      <link href="http://localhost:4000/priproject/study-programming-tip-list" rel="alternate" type="text/html" title="프로그래밍의 다양한 스터디 방법 - 목차" />
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="프로그래밍의 다양한 스터디 방법 - 목차" />
       <published>2018-12-23T16:00:00+07:00</published>
       <updated>2018-12-23T16:00:00+07:00</updated>
-      <id>http://localhost:4000/priproject/study-programming-tip-list</id>
-      <content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-list">&lt;ol&gt;
+      <id>https://congchu.github.io//study-programming-tip-list</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;ol&gt;
   &lt;li&gt;멘탈관리 - 정신승리&lt;/li&gt;
   &lt;li&gt;아무것도 몰라요 - 입문 공부법&lt;/li&gt;
   &lt;li&gt;집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기&lt;/li&gt;
