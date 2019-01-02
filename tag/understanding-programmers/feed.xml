@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/priproject/tag/understanding-programmers/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T14:17:33+07:00</updated>
+  <id>http://localhost:4000/priproject/tag/understanding-programmers/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">프라이 | </title>
+  
+
+  
+    <subtitle>Programmer's Life Is Getting Better</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-tip-5" rel="alternate" type="text/html" title="안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?" />
+      <published>2018-12-23T17:00:00+07:00</published>
+      <updated>2018-12-23T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-tip-5</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-5">&lt;h2 id=&quot;분류-3---주로-하는-업무에-따른-분류&quot;&gt;분류 3 - 주로 하는 업무에 따른 분류&lt;/h2&gt;
+&lt;p&gt;아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;개발하는 개발자 (Developer / TechUser)&lt;/li&gt;
+  &lt;li&gt;개발도 하는 직장인&lt;/li&gt;
+  &lt;li&gt;IT 관련된 일을 하지만, 개발은 하지 않는 직장인&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1-개발하는-개발자--developer--techuser&quot;&gt;(1) 개발하는 개발자  (Developer / TechUser)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;우리가 흔히 생각하는 개발자&lt;/li&gt;
+  &lt;li&gt;인터넷 서비스 기업 (네이버, 카카오, 라인 등등)&lt;/li&gt;
+  &lt;li&gt;(기획자/테스터/스텝/개발직군이 나뉘어 있는 회사)&lt;/li&gt;
+  &lt;li&gt;개발자 공채를 뽑는 곳 (아마도 대형 스타트업)&lt;/li&gt;
+  &lt;li&gt;프리랜서, SI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;하루종일 개발한다. 오늘도 내일도 모레도 개발한다&lt;/li&gt;
+  &lt;li&gt;회사에서 하루에 1시간 이상 대화하지 않는다&lt;/li&gt;
+  &lt;li&gt;내가 직접 개발 일정을 계획한다&lt;/li&gt;
+  &lt;li&gt;노오력이 많이 필요하고 좀 외롭다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;개발을 좋아하고 잘한다&lt;/li&gt;
+  &lt;li&gt;부지런하고 열정적이다 (야근이나 퇴근 후 학습도 ok)&lt;/li&gt;
+  &lt;li&gt;새로운 기술에 관심이 많다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이 길로 성공한다면&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;실력있는 개발자, 기술 리더가 될 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-개발도-하는-직장인-1---개발잡무&quot;&gt;(2) 개발도 하는 직장인 (1) - 개발+잡무&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;SI대기업, 스타트업, 중소기업&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;​기획/개발/QA/스텝이 나뉘어 있지 않은 회사&lt;/li&gt;
+  &lt;li&gt;기타 업무가 많다&lt;/li&gt;
+  &lt;li&gt;전화업무, 회의, 문서작성, 메일작성, 출장, 인력관리, 인사 채용 등&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;커뮤니케이션 역량이 중요하다&lt;/li&gt;
+  &lt;li&gt;개발보다 다재다능한 역량이 더 인정받는 경우가 많다&lt;/li&gt;
+  &lt;li&gt;하나에 집중하기 어려워 전문성은 떨어질 수 있다&lt;/li&gt;
+  &lt;li&gt;고로 IT 역량은 스스로 길러야 한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;개발이 싫은 건 아닌데 엄청 노력할 자신은 없다&lt;/li&gt;
+  &lt;li&gt;이것저것 여러가지 일을 해보는 게 좋다&lt;/li&gt;
+  &lt;li&gt;커뮤니케이션을 잘한다 (괜찮다)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;이 길에서 성공한다면&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;잘 나가는 회사원.&lt;/li&gt;
+  &lt;li&gt;실력있는 관리자가 될 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-개발도-하는-직장인-2---유지보수-지원업무&quot;&gt;(3) 개발도 하는 직장인 (2) - 유지보수, 지원업무&lt;/h4&gt;
+
+&lt;p&gt;​반복적이고 메뉴얼화 되어있는 업무를 수행한다&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;시스템 운영(SM), 시스템 엔지니어(SE, 인프라)​, ​기술 지원 업무&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;워라밸이 좋고, 한 곳에서 오랫동안 일할 수도 있다&lt;/li&gt;
+  &lt;li&gt;입사 초기에 배울 것이 많으나, 연차가 쌓일수록 일이 편해진다&lt;/li&gt;
+  &lt;li&gt;개발이 필요한 경우도 있으나 유지보수 수준이다&lt;/li&gt;
+  &lt;li&gt;개인의 성장은 기대하기 어렵고, 반복적인 업무가 많아 지루할 수 있다&lt;/li&gt;
+  &lt;li&gt;특화된 도메인을 선택하는게 유리하다 - 제조/통신/금융, 인프라&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;내 꿈은 공무원. 무리하지 않고 안정적으로 일하는게 좋다&lt;/li&gt;
+  &lt;li&gt;반복적이고 메뉴얼화 되어있는 일을 하는게 좋다&lt;/li&gt;
+  &lt;li&gt;일에서의 성공보다 내 삶과 가정이 더 중요하다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;이 길에서 성공한다면&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;도메인 전문가가 될 수 있으며&lt;/li&gt;
+  &lt;li&gt;가정과 개인의 삶에 충실할 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개발을 하진 않고 IT와 관련된 일을 담당한다 (비개발직군)&lt;/p&gt;
+
+&lt;h4 id=&quot;4-it와-관련된-일을-하는-직장인&quot;&gt;(4) IT와 관련된 일을 하는 직장인&lt;/h4&gt;
+&lt;p&gt;개발 경험이 있어야 하는&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DBA&lt;/li&gt;
+  &lt;li&gt;IT 컨설턴트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개발을 알면 좋지만 몰라도 할 수 있는
+​​- 기술 영업 (솔루션, 외국계에 많은 직무)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터 분석가&lt;/li&gt;
+  &lt;li&gt;IT 서비스 기획자&lt;/li&gt;
+  &lt;li&gt;QA(품질보증, 버그 및 오류 테스팅)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;개발 일보다 이러한 일들이 더 잘 맞는다면, 업종 전환이 가능하다
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;개발자-분류-정리해보자&quot;&gt;개발자 분류 정리해보자!&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 분류 기준 &lt;/th&gt;
+    &lt;th&gt; 분류 &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 개발 분야	&lt;/th&gt;
+    &lt;td&gt; 웹 백엔드 개발자 &lt;br /&gt; 웹 프론트엔드 개발자&lt;br /&gt; 모바일 앱 개발자&lt;br /&gt; 기타(시스템 프로그래머, 모바일 게임 개발자, 게임 서버 및 게임 클라이언트 개발자) &lt;br /&gt; 비개발자 직군(DBA, 시스템 엔지니어, 빅데이터 전문가) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 일하는 스타일 &lt;/th&gt;
+    &lt;td&gt; 스피드 타입, 아이디어 타입
+      &lt;br /&gt;철학자 타입, 땡땡이 타입
+      &lt;br /&gt;마감철저 타입, 깔끔이 타입
+      &lt;br /&gt;근성 타입  
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 주요 업무(개발하는 비율)  &lt;/th&gt;
+    &lt;td&gt; 개발만 하는 개발자 (developer, tech user)
+      &lt;br /&gt; 개발도 하는 직장인(개발+잡무, 유지보수, 지원업무)
+      &lt;br /&gt;IT와 관련된 일을 하는 직장인
+    &lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">분류 3 - 주로 하는 업무에 따른 분류 아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠. 개발하는 개발자 (Developer / TechUser) 개발도 하는 직장인 IT 관련된 일을 하지만, 개발은 하지 않는 직장인</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">안 흔한 개발자 분류 (2) 일하는 방식이 무엇?</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-tip-4" rel="alternate" type="text/html" title="안 흔한 개발자 분류 (2) 일하는 방식이 무엇?" />
+      <published>2018-12-21T17:00:00+07:00</published>
+      <updated>2018-12-21T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-tip-4</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-4">&lt;h3 id=&quot;분류-2---개발자-일하는-유형애-따른-분류&quot;&gt;분류 2 - 개발자 일하는 유형애 따른 분류&lt;/h3&gt;
+
+&lt;h4 id=&quot;스피드타입&quot;&gt;스피드타입&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 아이디어를 빠른 속도로 구현&lt;/li&gt;
+  &lt;li&gt;Bad: 빠른 속도로 구현하기에 언뜻보면 우수하게 보이지만, 규모가 커지만 근성이 없어 제대로 못 하는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;아이디어 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 누구도 생각하지 못했던 기능과 기술을 생각해냄&lt;/li&gt;
+  &lt;li&gt;Bad: 그 아이디어들을 다 적용하려다 멘탈이 무너지는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;​철학자 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 독자적인 미학을 가지고 예술과 같은 프로그램을 작성함&lt;/li&gt;
+  &lt;li&gt;Bad: 못 읽을 정도로 복잡한 코드를 짜서 유지보수 하기가 어려움&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;땡땡이 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 이미 만들어져 있는 것들을 조합해서 결과를 냄. 리더에 적합&lt;/li&gt;
+  &lt;li&gt;Bad: 마감 직전에 프로그램을 완성하는 경우가 많음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;근성 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 어떤 절망적인 상황에 빠져도 포기하지 않고 프로그램을 작성&lt;/li&gt;
+  &lt;li&gt;Bad: 평범하게 보이는 타입. 근성은 있지만 참신한 발상은 부족&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;마감 철저 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 마감을 지키는 게 어렵기 때문에, 마감을 지키는 것만으로도 우수해 보임&lt;/li&gt;
+  &lt;li&gt;Bad: 마감을 위해 완성도를 낮춤. 70% 완성도면 충분하다는 보수적인 방식 사용&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;깔끔이 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 유지보수가 쉬운 프로그램을 우선적으로 작성&lt;/li&gt;
+  &lt;li&gt;Bad: 독창성이 없고, 어디에 사용될지 모르는 프로그램이 만들어지는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;위의 특징들을 생각해보고 나는 어떤 개발자 유형이 맞을 것 같은지 고민해보는 것도 재밌을 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;제가 처음에 중요하게 생각하는 것은 세번째 분류입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">분류 2 - 개발자 일하는 유형애 따른 분류</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">흔한 개발자 분류 (1) 사용하는 기술이 무엇?</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-tip-3" rel="alternate" type="text/html" title="흔한 개발자 분류 (1) 사용하는 기술이 무엇?" />
+      <published>2018-12-20T17:00:00+07:00</published>
+      <updated>2018-12-20T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-tip-3</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-3">&lt;h2 id=&quot;흔한-개발자-분류--기술분야에-따른-구&quot;&gt;흔한 개발자 분류 : 기술분야에 따른 구&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;웹-개발자&quot;&gt;웹 개발자&lt;/h4&gt;
+&lt;p&gt;웹 프론트엔드 개발자
+모바일 앱 개발자
+시스템 프로그래머
+모바일 게임 개발자&lt;/p&gt;
+
+&lt;p&gt;게임 서버 개발자
+게임 클라이언트 개발자&lt;/p&gt;
+
+&lt;p&gt;DBA
+시스템 엔지니어
+빅데이터 엔지니어&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;‘나는 웹 프론트앤드 개발자야’ ‘제 목표는 게임 서버 개발자입니다’&lt;/p&gt;
+
+&lt;p&gt;가장 객관적이고 직관적인 표현이긴 합니다만, 초보자들은 저 ‘게임 클라이언트 개발자’라는 직군이 어떤 주로 어떤 일을 하고 어떤 업무 특성을 갖고 있는지 잘 모릅니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 이것만으로 개발자란 어떤 사람들인지 이해하기가 어렵습니다.
+조금 다른 스타일이 분류를 한번 볼까요? 다음은 일하는 스타일/방식에 따른 분류입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">흔한 개발자 분류 : 기술분야에 따른 구 가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다. 웹 개발자 웹 프론트엔드 개발자 모바일 앱 개발자 시스템 프로그래머 모바일 게임 개발자</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-tip-2" rel="alternate" type="text/html" title="오해와 진실(2) 개발자는 개발만 잘하면 되나요?" />
+      <published>2018-12-18T17:00:00+07:00</published>
+      <updated>2018-12-18T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-tip-2</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-2">&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-tip-1" rel="alternate" type="text/html" title="오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?" />
+      <published>2018-12-17T17:00:00+07:00</published>
+      <updated>2018-12-17T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-tip-1</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-1">&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
+&lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
+
+&lt;p&gt;내가 개발자와 맞는지 적성을 확인하는 방법이 무엇일까요??&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다? “저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">개발자 이해하기 시리즈 목차</title>
+      <link href="http://localhost:4000/priproject/understanding-programmers-list" rel="alternate" type="text/html" title="개발자 이해하기 시리즈 목차" />
+      <published>2018-12-17T01:13:00+07:00</published>
+      <updated>2018-12-17T01:13:00+07:00</updated>
+      <id>http://localhost:4000/priproject/understanding-programmers-list</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-list">&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-3&quot;&gt;흔한 개발자 분류 (1) : 사용하는 기술이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-4&quot;&gt;안흔한 개발자 분류 (2): 일하는 방식이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-5&quot;&gt;안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (1): IT 기업 규모별 분류&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (2): IT 기업 고객별 분류&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- #### 그 동안 받았던 질문에 대한 내용 (더 나누고 싶은 이야기)
+- 적성에 대한 고민
+- 공부 방법 및 방향에 대한 고민
+- 부족한 실력에 대한 고민
+- 관심이 지속될까에 대한 고민
+- 취업 관련 걱정
+- 스펙에 대한 고민 (나이 &amp; 학벌) --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Understanding Programmers" />
+      
+
+      
+        <summary type="html">개발자 이해하기 시리즈 목차 오해와 진실(1) 제가 개발자가 잘 맞을까요? 오해와 진실(2) 개발자는 개발만 잘하면 되나요? 흔한 개발자 분류 (1) : 사용하는 기술이 무엇? 안흔한 개발자 분류 (2): 일하는 방식이 무엇? 안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율? 어떤 회사들이 있을까? (1): IT 기업 규모별 분류 어떤 회사들이 있을까? (2): IT 기업 고객별 분류</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

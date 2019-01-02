@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/priproject/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" /><updated>2019-01-02T14:17:33+07:00</updated><id>http://localhost:4000/priproject/</id><title type="html">프라이</title><subtitle>Programmer's Life Is Getting Better</subtitle><entry><title type="html">나에게 맞는 학습 방법 찾기</title><link href="http://localhost:4000/priproject/study-programming-tip-1" rel="alternate" type="text/html" title="나에게 맞는 학습 방법 찾기" /><published>2018-12-23T17:00:00+07:00</published><updated>2018-12-23T17:00:00+07:00</updated><id>http://localhost:4000/priproject/study-programming-tip-1</id><content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-1">&lt;p&gt;프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠.
+계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.&lt;/p&gt;
+
+&lt;p&gt;지금까지와의 주어지는 것을 따라갔던 공부와는 달라야 합니다.
+스스로에게 필요한 이론을 찾아낼 수 있어야하고, 최적의 공부 방법을 찾아내야 합니다.
+그러기 위해서는 끊임없이 고민해야하죠.&lt;/p&gt;
+
+&lt;p&gt;가장 먼저는 내 공부 스타일을 찾아내야합니다. 그래야 가장 짧은 시간동안 효율적으로 공부할 수 있습니다.
+제가 사용했던 몇가지 방법을 소개하려 합니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;학창시절, 나의 공부 역사를 떠올려보고 활동할 수 있을 것들을 찾아보자&lt;/li&gt;
+  &lt;li&gt;다른 사람이 성공한 방법 참고하자&lt;/li&gt;
+  &lt;li&gt;성격 검사 테스트 활용해보자&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;저는 상황에 따라 3가지 공부 방법을 바꿔가며 적용하곤 합니다.&lt;/p&gt;
+
+&lt;p&gt;이 중에 가장 빠르고 손쉽게 할 수 있는 무료 성격검사 테스트를 한번 추천드립니다.&lt;/p&gt;
+
+&lt;p&gt;성격검사 테스트를 해보자!!&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;테스트 종류&lt;/td&gt;
+      &lt;td&gt;내용&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MBTI&lt;/td&gt;
+      &lt;td&gt;‘인식’,  ‘판단’ 방법을 기준으로 16개 성격 유형으로 분류함 =&amp;gt; 외향/내향, 감각/직관, 사고/감정, 주장/수용&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DISC&lt;/td&gt;
+      &lt;td&gt;환경 인식 유형에 따라 인간의 행동 형태를  4가지로 구분&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;애니어그램&lt;/td&gt;
+      &lt;td&gt;사람의 타고난 기질을 9가지 유형으로 분류&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;에고그램 테스트&lt;/td&gt;
+      &lt;td&gt;5가지 상위 성격유형 아래 총 243가지로 하위성격유형을 분석&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>정쿠</name></author><category term="Studying Programming" /><summary type="html">프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠. 계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.</summary></entry><entry><title type="html">취업 준비 팁 목차</title><link href="http://localhost:4000/priproject/preparing-job-tip-1" rel="alternate" type="text/html" title="취업 준비 팁 목차" /><published>2018-12-23T17:00:00+07:00</published><updated>2018-12-23T17:00:00+07:00</updated><id>http://localhost:4000/priproject/preparing-job-tip-1</id><content type="html" xml:base="http://localhost:4000/priproject/preparing-job-tip-1">&lt;p&gt;IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다!
+&lt;br /&gt; 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)&lt;/p&gt;
+
+&lt;h3 id=&quot;내가-지원하려는-회사-파악하기&quot;&gt;내가 지원하려는 회사 파악하기&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;어떤 회사들이 있을까?(1) 규모별 - 중소/중견/대기업&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까?(2) 고객별 = SI/SM/서비스/솔류션&lt;/li&gt;
+  &lt;li&gt;회사는 어떤 일들을 할까? - 회사가 하는 일 엿보기 구경하는 방법 :)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;자소서-팁&quot;&gt;자소서 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;자소서 쓰기 팁(1) - 긍정적인 내용만 쓰세요&lt;/li&gt;
+  &lt;li&gt;자소서 쓰기 팁(2) - 용어를 정확히 써야해요&lt;/li&gt;
+  &lt;li&gt;자소서 쓰기 팁(3) - 장점을 팍팍! 강조해주세요&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;포트폴리오-팁&quot;&gt;포트폴리오 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;포트폴리오 만들기 팀(1) - 포폴에 정답은 없다&lt;/li&gt;
+  &lt;li&gt;포트폴리오 만들기 팁(2) - 읽는 사람을 배려한 포트폴리오 만들기&lt;/li&gt;
+  &lt;li&gt;포트폴리오 만들기 팁(3) - Github 활용법&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;면접-팁&quot;&gt;면접 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;면접 팁(1) - 자신감을 장착하자&lt;/li&gt;
+  &lt;li&gt;면접 팁(2) - 단골 질문 답변 완성해두자&lt;/li&gt;
+  &lt;li&gt;면접 팁(3) - 강점 기반의 캐릭터를 만들어 두자!&lt;/li&gt;
+  &lt;li&gt;면접 팁(4) - 스토리 Pool을 만들자&lt;/li&gt;
+  &lt;li&gt;면접 팁(5) - 실전에서 배우자&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;직장을-구하는-방법&quot;&gt;직장을 구하는 방법&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;인맥&lt;/li&gt;
+  &lt;li&gt;채용박람회&lt;/li&gt;
+  &lt;li&gt;채용 사이트&lt;/li&gt;
+  &lt;li&gt;헤드헌팅&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>정쿠</name></author><category term="Preparing Job" /><summary type="html">IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다! 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)</summary></entry><entry><title type="html">안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?</title><link href="http://localhost:4000/priproject/understanding-programmers-tip-5" rel="alternate" type="text/html" title="안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?" /><published>2018-12-23T17:00:00+07:00</published><updated>2018-12-23T17:00:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-tip-5</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-5">&lt;h2 id=&quot;분류-3---주로-하는-업무에-따른-분류&quot;&gt;분류 3 - 주로 하는 업무에 따른 분류&lt;/h2&gt;
+&lt;p&gt;아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;개발하는 개발자 (Developer / TechUser)&lt;/li&gt;
+  &lt;li&gt;개발도 하는 직장인&lt;/li&gt;
+  &lt;li&gt;IT 관련된 일을 하지만, 개발은 하지 않는 직장인&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1-개발하는-개발자--developer--techuser&quot;&gt;(1) 개발하는 개발자  (Developer / TechUser)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;우리가 흔히 생각하는 개발자&lt;/li&gt;
+  &lt;li&gt;인터넷 서비스 기업 (네이버, 카카오, 라인 등등)&lt;/li&gt;
+  &lt;li&gt;(기획자/테스터/스텝/개발직군이 나뉘어 있는 회사)&lt;/li&gt;
+  &lt;li&gt;개발자 공채를 뽑는 곳 (아마도 대형 스타트업)&lt;/li&gt;
+  &lt;li&gt;프리랜서, SI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;하루종일 개발한다. 오늘도 내일도 모레도 개발한다&lt;/li&gt;
+  &lt;li&gt;회사에서 하루에 1시간 이상 대화하지 않는다&lt;/li&gt;
+  &lt;li&gt;내가 직접 개발 일정을 계획한다&lt;/li&gt;
+  &lt;li&gt;노오력이 많이 필요하고 좀 외롭다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;개발을 좋아하고 잘한다&lt;/li&gt;
+  &lt;li&gt;부지런하고 열정적이다 (야근이나 퇴근 후 학습도 ok)&lt;/li&gt;
+  &lt;li&gt;새로운 기술에 관심이 많다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이 길로 성공한다면&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;실력있는 개발자, 기술 리더가 될 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;2-개발도-하는-직장인-1---개발잡무&quot;&gt;(2) 개발도 하는 직장인 (1) - 개발+잡무&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;SI대기업, 스타트업, 중소기업&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;​기획/개발/QA/스텝이 나뉘어 있지 않은 회사&lt;/li&gt;
+  &lt;li&gt;기타 업무가 많다&lt;/li&gt;
+  &lt;li&gt;전화업무, 회의, 문서작성, 메일작성, 출장, 인력관리, 인사 채용 등&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;커뮤니케이션 역량이 중요하다&lt;/li&gt;
+  &lt;li&gt;개발보다 다재다능한 역량이 더 인정받는 경우가 많다&lt;/li&gt;
+  &lt;li&gt;하나에 집중하기 어려워 전문성은 떨어질 수 있다&lt;/li&gt;
+  &lt;li&gt;고로 IT 역량은 스스로 길러야 한다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;개발이 싫은 건 아닌데 엄청 노력할 자신은 없다&lt;/li&gt;
+  &lt;li&gt;이것저것 여러가지 일을 해보는 게 좋다&lt;/li&gt;
+  &lt;li&gt;커뮤니케이션을 잘한다 (괜찮다)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;이 길에서 성공한다면&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;잘 나가는 회사원.&lt;/li&gt;
+  &lt;li&gt;실력있는 관리자가 될 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;3-개발도-하는-직장인-2---유지보수-지원업무&quot;&gt;(3) 개발도 하는 직장인 (2) - 유지보수, 지원업무&lt;/h4&gt;
+
+&lt;p&gt;​반복적이고 메뉴얼화 되어있는 업무를 수행한다&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;시스템 운영(SM), 시스템 엔지니어(SE, 인프라)​, ​기술 지원 업무&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;특징&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;워라밸이 좋고, 한 곳에서 오랫동안 일할 수도 있다&lt;/li&gt;
+  &lt;li&gt;입사 초기에 배울 것이 많으나, 연차가 쌓일수록 일이 편해진다&lt;/li&gt;
+  &lt;li&gt;개발이 필요한 경우도 있으나 유지보수 수준이다&lt;/li&gt;
+  &lt;li&gt;개인의 성장은 기대하기 어렵고, 반복적인 업무가 많아 지루할 수 있다&lt;/li&gt;
+  &lt;li&gt;특화된 도메인을 선택하는게 유리하다 - 제조/통신/금융, 인프라&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;알맞는 성격 유형&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;내 꿈은 공무원. 무리하지 않고 안정적으로 일하는게 좋다&lt;/li&gt;
+  &lt;li&gt;반복적이고 메뉴얼화 되어있는 일을 하는게 좋다&lt;/li&gt;
+  &lt;li&gt;일에서의 성공보다 내 삶과 가정이 더 중요하다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;이 길에서 성공한다면&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;도메인 전문가가 될 수 있으며&lt;/li&gt;
+  &lt;li&gt;가정과 개인의 삶에 충실할 수 있다&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개발을 하진 않고 IT와 관련된 일을 담당한다 (비개발직군)&lt;/p&gt;
+
+&lt;h4 id=&quot;4-it와-관련된-일을-하는-직장인&quot;&gt;(4) IT와 관련된 일을 하는 직장인&lt;/h4&gt;
+&lt;p&gt;개발 경험이 있어야 하는&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;DBA&lt;/li&gt;
+  &lt;li&gt;IT 컨설턴트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;개발을 알면 좋지만 몰라도 할 수 있는
+​​- 기술 영업 (솔루션, 외국계에 많은 직무)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터 분석가&lt;/li&gt;
+  &lt;li&gt;IT 서비스 기획자&lt;/li&gt;
+  &lt;li&gt;QA(품질보증, 버그 및 오류 테스팅)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;개발 일보다 이러한 일들이 더 잘 맞는다면, 업종 전환이 가능하다
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;개발자-분류-정리해보자&quot;&gt;개발자 분류 정리해보자!&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 분류 기준 &lt;/th&gt;
+    &lt;th&gt; 분류 &lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 개발 분야	&lt;/th&gt;
+    &lt;td&gt; 웹 백엔드 개발자 &lt;br /&gt; 웹 프론트엔드 개발자&lt;br /&gt; 모바일 앱 개발자&lt;br /&gt; 기타(시스템 프로그래머, 모바일 게임 개발자, 게임 서버 및 게임 클라이언트 개발자) &lt;br /&gt; 비개발자 직군(DBA, 시스템 엔지니어, 빅데이터 전문가) &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 일하는 스타일 &lt;/th&gt;
+    &lt;td&gt; 스피드 타입, 아이디어 타입
+      &lt;br /&gt;철학자 타입, 땡땡이 타입
+      &lt;br /&gt;마감철저 타입, 깔끔이 타입
+      &lt;br /&gt;근성 타입  
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;th&gt; 주요 업무(개발하는 비율)  &lt;/th&gt;
+    &lt;td&gt; 개발만 하는 개발자 (developer, tech user)
+      &lt;br /&gt; 개발도 하는 직장인(개발+잡무, 유지보수, 지원업무)
+      &lt;br /&gt;IT와 관련된 일을 하는 직장인
+    &lt;/td&gt;
+  &lt;/tr&gt;
+
+&lt;/table&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">분류 3 - 주로 하는 업무에 따른 분류 아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠. 개발하는 개발자 (Developer / TechUser) 개발도 하는 직장인 IT 관련된 일을 하지만, 개발은 하지 않는 직장인</summary></entry><entry><title type="html">프로그래밍의 다양한 스터디 방법 - 목차</title><link href="http://localhost:4000/priproject/study-programming-tip-list" rel="alternate" type="text/html" title="프로그래밍의 다양한 스터디 방법 - 목차" /><published>2018-12-23T16:00:00+07:00</published><updated>2018-12-23T16:00:00+07:00</updated><id>http://localhost:4000/priproject/study-programming-tip-list</id><content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-list">&lt;ol&gt;
+  &lt;li&gt;멘탈관리 - 정신승리&lt;/li&gt;
+  &lt;li&gt;아무것도 몰라요 - 입문 공부법&lt;/li&gt;
+  &lt;li&gt;집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기&lt;/li&gt;
+  &lt;li&gt;혼자는 외로웡 함께해요! - 스터디 활용법&lt;/li&gt;
+  &lt;li&gt;멘토가 필요해 - 과외, 멘토링&lt;/li&gt;
+  &lt;li&gt;넓고 얕게 공부하기 - 페이스북, 그룹채팅방 활용&lt;/li&gt;
+  &lt;li&gt;취업을 위한 단기간 공부법 - 체크리스트 활용법, 취업스터디&lt;/li&gt;
+  &lt;li&gt;Toy프로젝트하기(별표 다섯개)&lt;/li&gt;
+  &lt;li&gt;나는 욕심꾸러기! 기술을 알고 싶다! - 기술 블로그 활용&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>정쿠</name></author><category term="Studying Programming" /><summary type="html">멘탈관리 - 정신승리 아무것도 몰라요 - 입문 공부법 집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기 혼자는 외로웡 함께해요! - 스터디 활용법 멘토가 필요해 - 과외, 멘토링 넓고 얕게 공부하기 - 페이스북, 그룹채팅방 활용 취업을 위한 단기간 공부법 - 체크리스트 활용법, 취업스터디 Toy프로젝트하기(별표 다섯개) 나는 욕심꾸러기! 기술을 알고 싶다! - 기술 블로그 활용</summary></entry><entry><title type="html">안 흔한 개발자 분류 (2) 일하는 방식이 무엇?</title><link href="http://localhost:4000/priproject/understanding-programmers-tip-4" rel="alternate" type="text/html" title="안 흔한 개발자 분류 (2) 일하는 방식이 무엇?" /><published>2018-12-21T17:00:00+07:00</published><updated>2018-12-21T17:00:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-tip-4</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-4">&lt;h3 id=&quot;분류-2---개발자-일하는-유형애-따른-분류&quot;&gt;분류 2 - 개발자 일하는 유형애 따른 분류&lt;/h3&gt;
+
+&lt;h4 id=&quot;스피드타입&quot;&gt;스피드타입&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 아이디어를 빠른 속도로 구현&lt;/li&gt;
+  &lt;li&gt;Bad: 빠른 속도로 구현하기에 언뜻보면 우수하게 보이지만, 규모가 커지만 근성이 없어 제대로 못 하는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;아이디어 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 누구도 생각하지 못했던 기능과 기술을 생각해냄&lt;/li&gt;
+  &lt;li&gt;Bad: 그 아이디어들을 다 적용하려다 멘탈이 무너지는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;​철학자 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 독자적인 미학을 가지고 예술과 같은 프로그램을 작성함&lt;/li&gt;
+  &lt;li&gt;Bad: 못 읽을 정도로 복잡한 코드를 짜서 유지보수 하기가 어려움&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;땡땡이 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 이미 만들어져 있는 것들을 조합해서 결과를 냄. 리더에 적합&lt;/li&gt;
+  &lt;li&gt;Bad: 마감 직전에 프로그램을 완성하는 경우가 많음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;근성 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 어떤 절망적인 상황에 빠져도 포기하지 않고 프로그램을 작성&lt;/li&gt;
+  &lt;li&gt;Bad: 평범하게 보이는 타입. 근성은 있지만 참신한 발상은 부족&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;마감 철저 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 마감을 지키는 게 어렵기 때문에, 마감을 지키는 것만으로도 우수해 보임&lt;/li&gt;
+  &lt;li&gt;Bad: 마감을 위해 완성도를 낮춤. 70% 완성도면 충분하다는 보수적인 방식 사용&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;깔끔이 타입&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Good: 유지보수가 쉬운 프로그램을 우선적으로 작성&lt;/li&gt;
+  &lt;li&gt;Bad: 독창성이 없고, 어디에 사용될지 모르는 프로그램이 만들어지는 경우가 있음&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;위의 특징들을 생각해보고 나는 어떤 개발자 유형이 맞을 것 같은지 고민해보는 것도 재밌을 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;제가 처음에 중요하게 생각하는 것은 세번째 분류입니다.&lt;/p&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">분류 2 - 개발자 일하는 유형애 따른 분류</summary></entry><entry><title type="html">흔한 개발자 분류 (1) 사용하는 기술이 무엇?</title><link href="http://localhost:4000/priproject/understanding-programmers-tip-3" rel="alternate" type="text/html" title="흔한 개발자 분류 (1) 사용하는 기술이 무엇?" /><published>2018-12-20T17:00:00+07:00</published><updated>2018-12-20T17:00:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-tip-3</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-3">&lt;h2 id=&quot;흔한-개발자-분류--기술분야에-따른-구&quot;&gt;흔한 개발자 분류 : 기술분야에 따른 구&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;웹-개발자&quot;&gt;웹 개발자&lt;/h4&gt;
+&lt;p&gt;웹 프론트엔드 개발자
+모바일 앱 개발자
+시스템 프로그래머
+모바일 게임 개발자&lt;/p&gt;
+
+&lt;p&gt;게임 서버 개발자
+게임 클라이언트 개발자&lt;/p&gt;
+
+&lt;p&gt;DBA
+시스템 엔지니어
+빅데이터 엔지니어&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;‘나는 웹 프론트앤드 개발자야’ ‘제 목표는 게임 서버 개발자입니다’&lt;/p&gt;
+
+&lt;p&gt;가장 객관적이고 직관적인 표현이긴 합니다만, 초보자들은 저 ‘게임 클라이언트 개발자’라는 직군이 어떤 주로 어떤 일을 하고 어떤 업무 특성을 갖고 있는지 잘 모릅니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 이것만으로 개발자란 어떤 사람들인지 이해하기가 어렵습니다.
+조금 다른 스타일이 분류를 한번 볼까요? 다음은 일하는 스타일/방식에 따른 분류입니다.&lt;/p&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">흔한 개발자 분류 : 기술분야에 따른 구 가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다. 웹 개발자 웹 프론트엔드 개발자 모바일 앱 개발자 시스템 프로그래머 모바일 게임 개발자</summary></entry><entry><title type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title><link href="http://localhost:4000/priproject/understanding-programmers-tip-2" rel="alternate" type="text/html" title="오해와 진실(2) 개발자는 개발만 잘하면 되나요?" /><published>2018-12-18T17:00:00+07:00</published><updated>2018-12-18T17:00:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-tip-2</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-2">&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</summary></entry><entry><title type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title><link href="http://localhost:4000/priproject/understanding-programmers-tip-1" rel="alternate" type="text/html" title="오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?" /><published>2018-12-17T17:00:00+07:00</published><updated>2018-12-17T17:00:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-tip-1</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-tip-1">&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
+&lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
+
+&lt;p&gt;내가 개발자와 맞는지 적성을 확인하는 방법이 무엇일까요??&lt;/p&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다? “저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”</summary></entry><entry><title type="html">개발자 이해하기 시리즈 목차</title><link href="http://localhost:4000/priproject/understanding-programmers-list" rel="alternate" type="text/html" title="개발자 이해하기 시리즈 목차" /><published>2018-12-17T01:13:00+07:00</published><updated>2018-12-17T01:13:00+07:00</updated><id>http://localhost:4000/priproject/understanding-programmers-list</id><content type="html" xml:base="http://localhost:4000/priproject/understanding-programmers-list">&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-3&quot;&gt;흔한 개발자 분류 (1) : 사용하는 기술이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-4&quot;&gt;안흔한 개발자 분류 (2): 일하는 방식이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-5&quot;&gt;안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (1): IT 기업 규모별 분류&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (2): IT 기업 고객별 분류&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- #### 그 동안 받았던 질문에 대한 내용 (더 나누고 싶은 이야기)
+- 적성에 대한 고민
+- 공부 방법 및 방향에 대한 고민
+- 부족한 실력에 대한 고민
+- 관심이 지속될까에 대한 고민
+- 취업 관련 걱정
+- 스펙에 대한 고민 (나이 &amp; 학벌) --&gt;</content><author><name>정쿠</name></author><category term="Understanding Programmers" /><summary type="html">개발자 이해하기 시리즈 목차 오해와 진실(1) 제가 개발자가 잘 맞을까요? 오해와 진실(2) 개발자는 개발만 잘하면 되나요? 흔한 개발자 분류 (1) : 사용하는 기술이 무엇? 안흔한 개발자 분류 (2): 일하는 방식이 무엇? 안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율? 어떤 회사들이 있을까? (1): IT 기업 규모별 분류 어떤 회사들이 있을까? (2): IT 기업 고객별 분류</summary></entry><entry><title type="html">멘토링 첫번째 기록 (2)</title><link href="http://localhost:4000/priproject/mentoring-record-1-2" rel="alternate" type="text/html" title="멘토링 첫번째 기록 (2)" /><published>2017-07-27T17:00:00+07:00</published><updated>2017-07-27T17:00:00+07:00</updated><id>http://localhost:4000/priproject/mentoring-record-1-2</id><content type="html" xml:base="http://localhost:4000/priproject/mentoring-record-1-2">&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;si시스템-통합-sm시스템-운영에-대하여&quot;&gt;SI(시스템 통합), SM(시스템 운영)에 대하여&lt;/h5&gt;
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 보통 IT쪽에서의 대기업이 크게 (1) IT 인터넷 기업(IT 서비스 기업)과 (2)SI 대기업으로 나뉘거든요.
+&lt;br /&gt;나중에 옮기실 때는, 서비스 기업 말고 SI 대기업 직군을 목표로 하시는 게 더 수월하실 거에요. &lt;br /&gt;그 중에서도, 삼섬SDS나 SK C&amp;amp;C처럼 IT를 주로 하는 기업은 스펙 등을 많이 봐서 쉽진 않을 것 같아요.
+&lt;br /&gt;목표로 하신다면 비 IT대기업의 서포트 직군 쪽으로 옮기시는게 조금 수월할 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; IT서포트 같은 경우는 어떤건가요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 음.. 비 IT기업에서 IT직군을 뽑는 경우를 말씀드리고 싶었던 건데요,
+&lt;br /&gt; 예를 들면, 지금 생각나는 곳은 농심이네요. 농심은 IT서비스 기업이 아니지만 IT직군을 뽑거든요.
+&lt;br /&gt; 이런 직군은 막 개발을 엄청 한다기 보다는, 사내 시스템 관리나 운영 쪽을 업무가 대부분이에요.
+&lt;br /&gt; 또 생각나는 곳은 인터파크 웹 사이트 운영/유지 보수 업무가 있네요.
+&lt;br /&gt; 운영 쪽 업무를 하고 싶으신거지요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; SM 이랑은 또 다른 분야인가요? 운영 쪽도 어떤건지 잘 모르겠어서 말씀을 못드리겠어요ㅠ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; SI는 새로 시스템(프로그램)을 개발하는 업무로, 무에서 유를 만드는(?)하는 거라고 보시면 됩니다.
+&lt;br /&gt; 이미 있는 시스템을 업데이트하는 경우도 있지만, 기본적으로 새로운 기능과 코드를 짜는 일이 일이 많아요.
+&lt;br /&gt;
+특징으로는 개발량이 많고, 빡세고, 출퇴근이 불규칙적일 가능성이 높습니다. 그 대신에 개발 실력 늘겠죠 (이것도 케바케이긴 합니다만..) 일자리가 많고 취업이 제일 쉬운 분야죠.&lt;/p&gt;
+
+&lt;p class=&quot;tip&quot;&gt;
+&lt;b&gt;[TIP]&lt;/b&gt; SI에 대해 좀 더 알고 싶다면,
+&lt;br /&gt;Okky에서 제작한 &lt;b&gt;《프리랜서 가이드라인 by OKKY》&lt;/b&gt;을 읽어보세요 =&amp;gt; &lt;a href=&quot;https://okky.kr/article/533991&quot; style=&quot;color:white; font-weight:bold;&quot; target=&quot;blank&quot;&gt;링크&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; SM(운영)은 SI가 시스템을 구축하고(만들고) 철수하면,
+&lt;br /&gt; 실제 운영을 시작합니다. 자잘한 버그 수정하고 시스템이 잘 동작하도록 보완하고 관리하지요.
+&lt;br /&gt; 업무 강도는 SI에 비교해서는 약하고, 출퇴근이 정해져있고 루틴한 업무를 반복하는 경우가 많아요.
+&lt;br /&gt; 그 안에서도 세부적으로 나뉘긴 합니다만. 일단 이 정도로 알아두시면 될 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아 그렇군요! SM 업무에도 관심이 있어서, 나중에 해보고 싶기도 합니다. 실력이 좀 늘은 뒤에요.&lt;/p&gt;
+
+&lt;h4 id=&quot;이력서포폴에는-불필요한-정보는-최소화하자&quot;&gt;이력서/포폴에는 불필요한 정보는 최소화하자&lt;/h4&gt;
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 참. 아까 이력서가 조금 이것저것 혼잡한 게 있다고 하셨는데요, 그럼 차라리 IT 관련없는 행사 기획 등은 빼는게 나을까요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  애매하네요.. 혹시 목표로 하는 회사가 있으신가요? 사람인이나 이런데서 보신 곳이 있나요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아니요 ㅠ 목표로 하는 회사는 없고 사람인같은 구직 싸이트에서 웹개발쪽으로 그냥 조건에 맞는 곳들을 넣고있어요&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt; 행사 기획관련 인턴은 호불호가 갈릴 것 같은데, 일단 기획이니까 마이너스는 아닐 것 같아요.
+&lt;br /&gt; 좀 애매해서 일단 살려두시고 면접 가봤는데, 그거 때문에 안좋게 말씀하시는 경우가 생기면 빼는게 좋을 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 아, 참고로 면접은 최소 10번 본다고 생각하시는게 편하실 것 같아요.
+&lt;br /&gt; 개인적으로 연봉을 올리는 가장 쉬운 방법은, 여러군데 붙어서 원하는 곳에 높여서 가는거라고 생각합니다.&lt;/p&gt;
+
+&lt;h5 id=&quot;인턴과-신입으로-입사-중-무엇이-나을까&quot;&gt;인턴과 신입으로 입사 중 무엇이 나을까?&lt;/h5&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 인턴을 한번 더 할지, 바로 경력으로 입사할지가 고민이 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  지금 상황에서는 인턴을 해서 경력 하나를 더 추가한다고 더 좋은 회사를 갈 수 있을지가 좀 애매한것 같아요.
+&lt;br /&gt; 프로젝트도 몇 있으시고, 인턴 경력도 이미 있으서셔요. IT는 아니지만요.
+&lt;br /&gt; 제 의견으로는, 그냥 신입으로 들어가시고 짧게라도 하고 옮기시는게 나을 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 6개월을 하고 이력에 넣어도 나쁘게 보지는 않나요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 음.. 안좋게 보는 곳도 있겠죠. 그래도 완전 신입보다는 더 선호할 것 같아요. 제 생각에는요.
+&lt;br /&gt;회사입장에서 완전 신입은 가르쳐야할 게 산더미라서 부담스럽거든요.ㅎㅎ 6개월이라도 근무한 경력이 플러스가 되지 않을까 싶네요.
+&lt;br /&gt;그러한 이유도 있고, 멘티님 입장에서도 회사가 대충 무슨일을 하고 어떤 사원을 바라는 구나라는 감이 오시면, 더 좋은 회사로 옮길 수 있을거에요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 물론 그걸 노리고 일부러 짧게 있을 필요는 없고 처음부터 좋은 회사를 가면 제일 좋겠죠!
+&lt;br /&gt; 그래도 첫번째에 좋은 회사를 가기 위해 인턴을 하는 건 조금 시간이 아까울 것 같아요.
+&lt;br /&gt;인턴으로 배울 수 있는 것과, 신입으로 배울 수 있는 것들은 많은 차이가 많을 거에요.
+&lt;br /&gt;인턴에게는 보통 열심을 다해 알려주지 않거든요. 곧 떠날 수도 있으니까요 (ㅠ)&lt;/p&gt;
+
+&lt;h5 id=&quot;포트폴리오-피드백&quot;&gt;포트폴리오 피드백&lt;/h5&gt;
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  포트폴리오는 많이 고치셔야 할 것 같아요..
+&lt;br /&gt; 아까 이력서만 말씀드렸는데 포트폴리오도 상당히 혼란스럽습니다….ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아, 네. 어떤점 을 수정하는게 좋을까요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 일단 페이지가 너무 많아요. 하나의 프로젝트에 길어야 4장 정도가 좋을 것 같아요.
+&lt;br /&gt; 글씨 배치도 이곳 저곳에 정렬되어 있지 않아서 보기가 어렵고, 폰트도 페이지마다 제각각이네요. 정돈되지 않은 것이 기획 쪽 발표 자료 같은 느낌이 들어요&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 글씨 크기같은 건 어떤가요, 내용도 대표 기능들을 넣은 건데 조금 줄이는 게 나을까요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 네, 정리하는게 좋을 것 같습니다.
+통일시켜야 할 부분은 이래요&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;페이지 상단에 프로젝트 명 일관되게 쓰기&lt;/li&gt;
+  &lt;li&gt;글씨 색깔도 현란하지 않게 =&amp;gt; 많아야 3개 정도의 색만 쓰기&lt;/li&gt;
+  &lt;li&gt;폰트도 굴림체/바탕체보다는 Kopub, 고딕 종류로 일관되게 쓰기&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 개발하면서 고민했던 내용들이 들어가 있는 건 좋은 것 같아요.
+&lt;br /&gt;하지만 클래스까지 설명하실 필요는 없어요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 샘플이 흠… 잠시만요
+https://www.slideshare.net/pouu69/ss-58215884
+&lt;br /&gt; 템플릿이 예쁘진 않은데, 이게 그나마 내용은 잘 들어가 있는 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네! 다른 부분들도 조금 줄이는게 나을까요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; ‘주제 선정과 개발 동기’ 쪽은 줄이시는게 좋을 것 같고, ‘문제 해결’ 부분은 자세한 게 좋은 것 같아요.
+&lt;br /&gt;그리고 배경에 들어가는 이미지들은 다 빼시고 하나의 색상으로 통일하는게 좋을 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 넵, 그럼 그냥 하얀색 바탕에 하는게 좋나요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 색상은 크게 상관 없는데요, 퍼블리셔 분들 포트폴리오 템플릿 참고하면 좋을 것 같아요.
+&lt;br /&gt;개인적으로 내용들은 좋은 것 같습니다. 정리만 잘하시면 굉장히 좋을 것 같아요&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; PPT 템플릿은 잘 못찾겠네요….
+구글에 ‘심플 PPT 템플릿’과 같이 검색해서, 맘에 드시는 거 쓰시면 좋을 것 같습니다.
+&lt;br /&gt;내용은 현재 내용에서 더 추가하진 마시고, 일관되게 다듬고 줄이는 수준으로만 하셔도 될 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 감사합니다!!&lt;/p&gt;
+
+&lt;p&gt;(생략)&lt;/p&gt;
+
+&lt;h5 id=&quot;내가-개발하지-않은-파트는-설명하지-않기&quot;&gt;내가 개발하지 않은 파트는 설명하지 않기&lt;/h5&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  &lt;strong&gt;포트폴리오의 목적&lt;/strong&gt; 은 이래요.
+&lt;br /&gt; 1차로는 멘티님이 어떤 프로젝트를 했고, 어떤 파트를 무슨 기술을 써서 개발 했는지를 알고 싶은거에요.
+&lt;br /&gt;그걸 통해서 그래서 &lt;strong&gt;멘티님에게 어떤 경험이 있고, 어느정도의 실력이 있는지를 알고자 하는 것이거든요.&lt;/strong&gt; &lt;br /&gt; 어떤 고민을 통해 개발했는지까지 넣으면 더 좋겠죠.
+&lt;br /&gt; 어쨌든 그래서, 멘티님이 개발하지 않은 부분은 자세하게 넣으시면 안돼요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 그런 부분을 고려해서, 내 역할이 무엇이고 어떤 기술을 써서 어떻게 개발했는지를 70~80% 프로젝트 설명 2~30%정도의 비중으로 생각하시고 정리하시는게 좋을 것 같아요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 프로젝트나 이론 소개 등은 줄이는게 좋을 것 같네요. 네 알겠습니다!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  이 글 참고하시면 좋을 것 같아요.
+&lt;br /&gt; https://okky.kr/article/368504 3번과 5번이 해당 내용이겠네요ㅎㅎ
+&lt;br /&gt; 3. 프레젠테이션 파일은 최대한 깔끔하게
+&lt;br /&gt; 5. 팀 프로젝트인 경우 본인(이력서를 제출한)의 역할을 뚜렷히 나타내세요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네! 포트폴리오 만들 때 참고했던 글인데 다시 보고 정리를 해야겠어요!!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  넵! :) 포폴은 수정하시고 한번 더 보내주세요 ㅎㅎ
+1차로는 템플릿을 좀 더 심플하게 바꾸시고, 타이틀 등을 일관되게 고치시고, 분량을 반으로 줄이는 것을 목표로요. ㅎㅎ&lt;/p&gt;
+
+&lt;h5 id=&quot;면접에서-포트폴리오-관련-질문&quot;&gt;면접에서 포트폴리오 관련 질문&lt;/h5&gt;
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 참, 면접에서 포트폴리오에 대한 질문은 어떤게 나오나요?
+&lt;br /&gt; 어떠한 기술을 썼는지, 사용 기술에 대한 이론이나 어려웠던 점 이런 걸 물어보나요?&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  음… 가장 많이 받았던 질문은 막연하게 ‘했던 프로젝트에 대해 설명해주세요’
+&lt;br /&gt; 이어서 나오는 질문으로 ‘그 중에서 정쿠님이 담당하신 파트는 뭐에요? 어떤 부분이 가장 힘들었나요? 어려웠어요? 어떤 문제가 있었나요? 어떻게 해결했나요?’
+와 같은 질문을 가장 많이 받았던 것 같습니다. 기술적인 구현 어떻게 했는지 물어본 적도 있고요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 포트폴리오에 쓰신 것중에서는 뭐든 나올 수 있긴 합니다만, 기술적으로 깊게는 잘 안물어보셔요.
+&lt;br /&gt;그래도 킬링 포인트(?)로 기술에 대해 미리 알아두시면, 기회가 왔을 때 플러스 점수를 얻으실 수 있을거에요!
+&lt;br /&gt;기회를 만들 수도 있겠죠 :)&lt;/p&gt;
+
+&lt;h5 id=&quot;마무리-인사-&quot;&gt;마무리 인사 :)&lt;/h5&gt;
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네네! 그렇군요! 감사합니다!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 네! 면접 너무 무서워하지 마시고요 ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; ㅠㅠㅠㅠ 네 엄청 무서워하고 있었는데 ㅠ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  사람인에 이력서 넣어도 연락 안오는 경우도 많으니까 떨어졌다고 슬퍼하지 않으셔도 돼요. ㅎㅎ 저도 많이 당해봤습니다..후후&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 그렇군요ㅠ 힘든 과정이네요 ㅠ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  한번에 붙으려는 마음을 좀 내려놓으시면 여유도 좀 생길거에요.
+&lt;br /&gt; 면접도 보다보면 늘어요:) 면접관 표정도 읽게되고, 어떤 말을 하면 좋아하는지, 어떤 말을 했을 때 안좋아지는지 알게 될거에요.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네 ㅠㅠ 그렇군요ㅠ 감사합니다ㅠ 도움이 많이 되었어요!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  넵넵!! 고생하셨어요 :) 원하는데 후딱 붙으시길 바랄께요 ㅎㅎ&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 포트폴리오 한번 정리를 해서 한번 더 연락을 드릴게요! ㅠ
+아니에요 더 고생많으셨죠!! 네 늦은시간까지 정말 친절하게 감사합니다!!^^&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  네, 포트폴리오 수정하시고 연락주세요!
+다음에 완성시켜 보아요 :) 좋은 밤 되세요~~!!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네네 정말 감사합니다!!! 굿밤되세요~~!!!!^^&lt;/p&gt;
+
+&lt;h5 id=&quot;피드백-정리&quot;&gt;피드백 정리&lt;/h5&gt;
+
+&lt;h6 id=&quot;포트폴리오의-문제점---면접관이-느끼게-될-느낌-순서로-정리해봤어요&quot;&gt;‘포트폴리오의 문제점 -&amp;gt; 면접관이 느끼게 될 느낌’ 순서로 정리해봤어요.&lt;/h6&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;정리가 잘 되어 있지 않고, 불필요한 페이지가 많다 =&amp;gt; 인사담당자: 읽기 불편하다. 일단 별로 읽고 싶어지지 않는다. 비호감.&lt;/li&gt;
+  &lt;li&gt;폰트와 디자인이 통일성이 없다 =&amp;gt; 인사담당자: 특이하거나 꼼꼼하지 않은 성격일 것 같다.&lt;/li&gt;
+  &lt;li&gt;신기한 템플릿이다 =&amp;gt; 인사담당자 :낯설다 (거부감이 느껴진다)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h6 id=&quot;보완할-점&quot;&gt;보완할 점&lt;/h6&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;전체 폰트 통일이 필요합니다 : 폰트 수정 -&amp;gt; Kopub 돋움체 추천드려요&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;여전히 폰트가 제각각인 부분이 있는데요, 이게 무엇이 문제냐 하시겠지만, 아래에 정리해두었어요 ㅎㅎ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;템플릿(배경과 구성) 통일해주세요&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;페이지 1, 2, 3이 다 다른 템플릿을 쓰고 있는네요 뒤에도 배경색이 자주 바뀌어서 정신이 없습니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;소 표지를 없애주세요.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;표지를 없애고, Page 3~8 한장으로 만들고, 이어지는 PPT들도 비슷하게 합쳐주세요.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;‘내용이 중요하지 템플릿이나 디자인이 뭐가 중요합니까?’라고 생각하실 수도 있는데요,
+면접관들은 생각보다 포트폴리오를 꼼꼼하게 읽지 않습니다.
+하루에도 엄청나게 많은 포폴이 올테니까요
+
+포폴에서 풍기는 ‘느낌'이나 ‘분위기'가 멘티님을 판단하는 첫번째 요소가 될 거에요.
+직장인들은 보편적으로 일단 익숙한 느낌의 정리된 포트폴리오를 좋아해요.
+
+여기서 잠깐,
+'잘 정리되서 읽기 좋은' 포트폴리오와 '평범하고 특징 없는' 포트폴리오는 다른 의미라는 것을 알아주세요 :) !!
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>정쿠</name></author><category term="Mentoring" /><summary type="html">목차 첫번째 대화 다시보기</summary></entry></feed>

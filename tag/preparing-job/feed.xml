@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/priproject/tag/preparing-job/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T14:17:33+07:00</updated>
+  <id>http://localhost:4000/priproject/tag/preparing-job/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">프라이 | </title>
+  
+
+  
+    <subtitle>Programmer's Life Is Getting Better</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">취업 준비 팁 목차</title>
+      <link href="http://localhost:4000/priproject/preparing-job-tip-1" rel="alternate" type="text/html" title="취업 준비 팁 목차" />
+      <published>2018-12-23T17:00:00+07:00</published>
+      <updated>2018-12-23T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/preparing-job-tip-1</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/preparing-job-tip-1">&lt;p&gt;IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다!
+&lt;br /&gt; 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)&lt;/p&gt;
+
+&lt;h3 id=&quot;내가-지원하려는-회사-파악하기&quot;&gt;내가 지원하려는 회사 파악하기&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;어떤 회사들이 있을까?(1) 규모별 - 중소/중견/대기업&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까?(2) 고객별 = SI/SM/서비스/솔류션&lt;/li&gt;
+  &lt;li&gt;회사는 어떤 일들을 할까? - 회사가 하는 일 엿보기 구경하는 방법 :)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;자소서-팁&quot;&gt;자소서 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;자소서 쓰기 팁(1) - 긍정적인 내용만 쓰세요&lt;/li&gt;
+  &lt;li&gt;자소서 쓰기 팁(2) - 용어를 정확히 써야해요&lt;/li&gt;
+  &lt;li&gt;자소서 쓰기 팁(3) - 장점을 팍팍! 강조해주세요&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;포트폴리오-팁&quot;&gt;포트폴리오 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;포트폴리오 만들기 팀(1) - 포폴에 정답은 없다&lt;/li&gt;
+  &lt;li&gt;포트폴리오 만들기 팁(2) - 읽는 사람을 배려한 포트폴리오 만들기&lt;/li&gt;
+  &lt;li&gt;포트폴리오 만들기 팁(3) - Github 활용법&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;면접-팁&quot;&gt;면접 팁&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;면접 팁(1) - 자신감을 장착하자&lt;/li&gt;
+  &lt;li&gt;면접 팁(2) - 단골 질문 답변 완성해두자&lt;/li&gt;
+  &lt;li&gt;면접 팁(3) - 강점 기반의 캐릭터를 만들어 두자!&lt;/li&gt;
+  &lt;li&gt;면접 팁(4) - 스토리 Pool을 만들자&lt;/li&gt;
+  &lt;li&gt;면접 팁(5) - 실전에서 배우자&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;직장을-구하는-방법&quot;&gt;직장을 구하는 방법&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;인맥&lt;/li&gt;
+  &lt;li&gt;채용박람회&lt;/li&gt;
+  &lt;li&gt;채용 사이트&lt;/li&gt;
+  &lt;li&gt;헤드헌팅&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Preparing Job" />
+      
+
+      
+        <summary type="html">IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다! 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/priproject/tag/studying-programming/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/priproject/" rel="alternate" type="text/html" />
+  <updated>2019-01-02T14:17:33+07:00</updated>
+  <id>http://localhost:4000/priproject/tag/studying-programming/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">프라이 | </title>
+  
+
+  
+    <subtitle>Programmer's Life Is Getting Better</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">나에게 맞는 학습 방법 찾기</title>
+      <link href="http://localhost:4000/priproject/study-programming-tip-1" rel="alternate" type="text/html" title="나에게 맞는 학습 방법 찾기" />
+      <published>2018-12-23T17:00:00+07:00</published>
+      <updated>2018-12-23T17:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/study-programming-tip-1</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-1">&lt;p&gt;프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠.
+계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.&lt;/p&gt;
+
+&lt;p&gt;지금까지와의 주어지는 것을 따라갔던 공부와는 달라야 합니다.
+스스로에게 필요한 이론을 찾아낼 수 있어야하고, 최적의 공부 방법을 찾아내야 합니다.
+그러기 위해서는 끊임없이 고민해야하죠.&lt;/p&gt;
+
+&lt;p&gt;가장 먼저는 내 공부 스타일을 찾아내야합니다. 그래야 가장 짧은 시간동안 효율적으로 공부할 수 있습니다.
+제가 사용했던 몇가지 방법을 소개하려 합니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;학창시절, 나의 공부 역사를 떠올려보고 활동할 수 있을 것들을 찾아보자&lt;/li&gt;
+  &lt;li&gt;다른 사람이 성공한 방법 참고하자&lt;/li&gt;
+  &lt;li&gt;성격 검사 테스트 활용해보자&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;저는 상황에 따라 3가지 공부 방법을 바꿔가며 적용하곤 합니다.&lt;/p&gt;
+
+&lt;p&gt;이 중에 가장 빠르고 손쉽게 할 수 있는 무료 성격검사 테스트를 한번 추천드립니다.&lt;/p&gt;
+
+&lt;p&gt;성격검사 테스트를 해보자!!&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;테스트 종류&lt;/td&gt;
+      &lt;td&gt;내용&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;MBTI&lt;/td&gt;
+      &lt;td&gt;‘인식’,  ‘판단’ 방법을 기준으로 16개 성격 유형으로 분류함 =&amp;gt; 외향/내향, 감각/직관, 사고/감정, 주장/수용&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DISC&lt;/td&gt;
+      &lt;td&gt;환경 인식 유형에 따라 인간의 행동 형태를  4가지로 구분&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;애니어그램&lt;/td&gt;
+      &lt;td&gt;사람의 타고난 기질을 9가지 유형으로 분류&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;에고그램 테스트&lt;/td&gt;
+      &lt;td&gt;5가지 상위 성격유형 아래 총 243가지로 하위성격유형을 분석&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Studying Programming" />
+      
+
+      
+        <summary type="html">프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠. 계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">프로그래밍의 다양한 스터디 방법 - 목차</title>
+      <link href="http://localhost:4000/priproject/study-programming-tip-list" rel="alternate" type="text/html" title="프로그래밍의 다양한 스터디 방법 - 목차" />
+      <published>2018-12-23T16:00:00+07:00</published>
+      <updated>2018-12-23T16:00:00+07:00</updated>
+      <id>http://localhost:4000/priproject/study-programming-tip-list</id>
+      <content type="html" xml:base="http://localhost:4000/priproject/study-programming-tip-list">&lt;ol&gt;
+  &lt;li&gt;멘탈관리 - 정신승리&lt;/li&gt;
+  &lt;li&gt;아무것도 몰라요 - 입문 공부법&lt;/li&gt;
+  &lt;li&gt;집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기&lt;/li&gt;
+  &lt;li&gt;혼자는 외로웡 함께해요! - 스터디 활용법&lt;/li&gt;
+  &lt;li&gt;멘토가 필요해 - 과외, 멘토링&lt;/li&gt;
+  &lt;li&gt;넓고 얕게 공부하기 - 페이스북, 그룹채팅방 활용&lt;/li&gt;
+  &lt;li&gt;취업을 위한 단기간 공부법 - 체크리스트 활용법, 취업스터디&lt;/li&gt;
+  &lt;li&gt;Toy프로젝트하기(별표 다섯개)&lt;/li&gt;
+  &lt;li&gt;나는 욕심꾸러기! 기술을 알고 싶다! - 기술 블로그 활용&lt;/li&gt;
+&lt;/ol&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>정쿠</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Studying Programming" />
+      
+
+      
+        <summary type="html">멘탈관리 - 정신승리 아무것도 몰라요 - 입문 공부법 집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기 혼자는 외로웡 함께해요! - 스터디 활용법 멘토가 필요해 - 과외, 멘토링 넓고 얕게 공부하기 - 페이스북, 그룹채팅방 활용 취업을 위한 단기간 공부법 - 체크리스트 활용법, 취업스터디 Toy프로젝트하기(별표 다섯개) 나는 욕심꾸러기! 기술을 알고 싶다! - 기술 블로그 활용</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

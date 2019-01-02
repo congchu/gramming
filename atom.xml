@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Programmer's Life Is Getting Better</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>나에게 맞는 학습 방법 찾기</title>
+        
+          <description>&lt;p&gt;프로그래머에게 공부란 평생 함께가야할 뗄레야 뗄 수 없는 친구죠.
+계속 공부를 해야한다는 것은 열정과 동기부여가 되기도 하지만, ~~하기도 합니다.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/study-programming-tip-1</link>
+        <guid isPermaLink="true">http://localhost:4000/study-programming-tip-1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>취업 준비 팁 목차</title>
+        
+          <description>&lt;p&gt;IT 회사 취업을 준비하며, 알아두면 좋을 내용들을 정리해보려고 합니다!
+&lt;br /&gt; 하나씩 작성해나가며, 계속적으로 추가할 예정입니다 :)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/preparing-job-tip-1</link>
+        <guid isPermaLink="true">http://localhost:4000/preparing-job-tip-1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?</title>
+        
+          <description>&lt;h2 id=&quot;분류-3---주로-하는-업무에-따른-분류&quot;&gt;분류 3 - 주로 하는 업무에 따른 분류&lt;/h2&gt;
+&lt;p&gt;아래와 같이 크게는 세 종류로 나눌 수 있어요. 개발하는 비율에 따른 분류죠.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;개발하는 개발자 (Developer / TechUser)&lt;/li&gt;
+  &lt;li&gt;개발도 하는 직장인&lt;/li&gt;
+  &lt;li&gt;IT 관련된 일을 하지만, 개발은 하지 않는 직장인&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-tip-5</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-5</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>프로그래밍의 다양한 스터디 방법 - 목차</title>
+        
+          <description>&lt;ol&gt;
+  &lt;li&gt;멘탈관리 - 정신승리&lt;/li&gt;
+  &lt;li&gt;아무것도 몰라요 - 입문 공부법&lt;/li&gt;
+  &lt;li&gt;집중력 뿜뿜한 혼자가 좋아 - 동영상 강의, 온라인강의, 책, 기록하기&lt;/li&gt;
+  &lt;li&gt;혼자는 외로웡 함께해요! - 스터디 활용법&lt;/li&gt;
+  &lt;li&gt;멘토가 필요해 - 과외, 멘토링&lt;/li&gt;
+  &lt;li&gt;넓고 얕게 공부하기 - 페이스북, 그룹채팅방 활용&lt;/li&gt;
+  &lt;li&gt;취업을 위한 단기간 공부법 - 체크리스트 활용법, 취업스터디&lt;/li&gt;
+  &lt;li&gt;Toy프로젝트하기(별표 다섯개)&lt;/li&gt;
+  &lt;li&gt;나는 욕심꾸러기! 기술을 알고 싶다! - 기술 블로그 활용&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        
+        <pubDate>Sun, 23 Dec 2018 16:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/study-programming-tip-list</link>
+        <guid isPermaLink="true">http://localhost:4000/study-programming-tip-list</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>안 흔한 개발자 분류 (2) 일하는 방식이 무엇?</title>
+        
+          <description>&lt;h3 id=&quot;분류-2---개발자-일하는-유형애-따른-분류&quot;&gt;분류 2 - 개발자 일하는 유형애 따른 분류&lt;/h3&gt;
+
+</description>
+        
+        <pubDate>Fri, 21 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-tip-4</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-4</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>흔한 개발자 분류 (1) 사용하는 기술이 무엇?</title>
+        
+          <description>&lt;h2 id=&quot;흔한-개발자-분류--기술분야에-따른-구&quot;&gt;흔한 개발자 분류 : 기술분야에 따른 구&lt;/h2&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;웹-개발자&quot;&gt;웹 개발자&lt;/h4&gt;
+&lt;p&gt;웹 프론트엔드 개발자
+모바일 앱 개발자
+시스템 프로그래머
+모바일 게임 개발자&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 20 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-tip-3</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-3</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title>
+        
+          <description>&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;
+</description>
+        
+        <pubDate>Tue, 18 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-tip-2</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title>
+        
+          <description>&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
+&lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 17 Dec 2018 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-tip-1</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>개발자 이해하기 시리즈 목차</title>
+        
+          <description>&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-3&quot;&gt;흔한 개발자 분류 (1) : 사용하는 기술이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-4&quot;&gt;안흔한 개발자 분류 (2): 일하는 방식이 무엇?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-5&quot;&gt;안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (1): IT 기업 규모별 분류&lt;/li&gt;
+  &lt;li&gt;어떤 회사들이 있을까? (2): IT 기업 고객별 분류&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Mon, 17 Dec 2018 01:13:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/understanding-programmers-list</link>
+        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-list</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>멘토링 첫번째 기록 (2)</title>
+        
+          <description>&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/mentoring-record-1-2</link>
+        <guid isPermaLink="true">http://localhost:4000/mentoring-record-1-2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>멘토링 첫번째 기록 (1)</title>
+        
+          <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;멘티
+- 사회학계열 / 취춘생 / 교육 및 프로젝트 3-4개 보유
+- IT 회사에 대해 잘 모름
+- 자소서와 포트폴리오 피드백 요청
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/mentoring-record-1-1</link>
+        <guid isPermaLink="true">http://localhost:4000/mentoring-record-1-1</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
