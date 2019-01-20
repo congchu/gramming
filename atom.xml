@@ -62,8 +62,8 @@
         
         <pubDate>Sun, 23 Dec 2018 16:00:00 +0700</pubDate>
         <link>
-        http://localhost:4000/study-programming-tip-list</link>
-        <guid isPermaLink="true">http://localhost:4000/study-programming-tip-list</guid>
+        http://localhost:4000/how-to-study-programming-tip-list</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-study-programming-tip-list</guid>
       </item>
       
     
@@ -106,42 +106,12 @@
     
       
       <item>
-        <title>오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title>
-        
-          <description>&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;
-</description>
-        
-        <pubDate>Tue, 18 Dec 2018 17:00:00 +0700</pubDate>
-        <link>
-        http://localhost:4000/understanding-programmers-tip-2</link>
-        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-2</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title>
-        
-          <description>&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
-&lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Mon, 17 Dec 2018 17:00:00 +0700</pubDate>
-        <link>
-        http://localhost:4000/understanding-programmers-tip-1</link>
-        <guid isPermaLink="true">http://localhost:4000/understanding-programmers-tip-1</guid>
-      </item>
-      
-    
-      
-      <item>
         <title>개발자 이해하기 시리즈 목차</title>
         
           <description>&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/li&gt;
+  &lt;li&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-3&quot;&gt;흔한 개발자 분류 (1) : 사용하는 기술이 무엇?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-4&quot;&gt;안흔한 개발자 분류 (2): 일하는 방식이 무엇?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-5&quot;&gt;안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?&lt;/a&gt;&lt;/li&gt;
@@ -155,6 +125,22 @@
         <link>
         http://localhost:4000/understanding-programmers-list</link>
         <guid isPermaLink="true">http://localhost:4000/understanding-programmers-list</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>멘토링 첫번째 기록 (2)</title>
+        
+          <description>&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/mentoring-record-2</link>
+        <guid isPermaLink="true">http://localhost:4000/mentoring-record-2</guid>
       </item>
       
     

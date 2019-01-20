@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://congchu.github.io//tag/understanding-programmers/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
-  <updated>2019-01-08T16:15:18+07:00</updated>
+  <updated>2019-01-20T17:16:41+07:00</updated>
   <id>https://congchu.github.io//tag/understanding-programmers/feed.xml</id>
 
   
@@ -347,77 +347,6 @@
     </entry>
   
     <entry>
-      <title type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</title>
-      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="오해와 진실(2) 개발자는 개발만 잘하면 되나요?" />
-      <published>2018-12-18T17:00:00+07:00</published>
-      <updated>2018-12-18T17:00:00+07:00</updated>
-      <id>https://congchu.github.io//understanding-programmers-tip-2</id>
-      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h5 id=&quot;오해와-진실2-개발자는-개발만-잘하면-되나요&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/h5&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>정쿠</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Understanding Programmers" />
-      
-
-      
-        <summary type="html">오해와 진실(2) 개발자는 개발만 잘하면 되나요?</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?</title>
-      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?" />
-      <published>2018-12-17T17:00:00+07:00</published>
-      <updated>2018-12-17T17:00:00+07:00</updated>
-      <id>https://congchu.github.io//understanding-programmers-tip-1</id>
-      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h5 id=&quot;오해와-진실1-개발자는-적성을-많이-타는-직업이다&quot;&gt;오해와 진실(1) 개발자는 적성을 많이 타는 직업이다?&lt;/h5&gt;
-&lt;p&gt;“저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”&lt;/p&gt;
-
-&lt;p&gt;내가 개발자와 맞는지 적성을 확인하는 방법이 무엇일까요??&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>정쿠</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Understanding Programmers" />
-      
-
-      
-        <summary type="html">오해와 진실(1) 개발자는 적성을 많이 타는 직업이다? “저는 문과생인데 국비학원을 가려고 합니다. 적성에 맞을까요?”</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">개발자 이해하기 시리즈 목차</title>
       <link href="https://congchu.github.io" rel="alternate" type="text/html" title="개발자 이해하기 시리즈 목차" />
       <published>2018-12-17T01:13:00+07:00</published>
@@ -425,8 +354,8 @@
       <id>https://congchu.github.io//understanding-programmers-list</id>
       <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;h1 id=&quot;개발자-이해하기-시리즈-목차&quot;&gt;개발자 이해하기 시리즈 목차&lt;/h1&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-1&quot;&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-2&quot;&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;오해와 진실(1) 제가 개발자가 잘 맞을까요?&lt;/li&gt;
+  &lt;li&gt;오해와 진실(2) 개발자는 개발만 잘하면 되나요?&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-3&quot;&gt;흔한 개발자 분류 (1) : 사용하는 기술이 무엇?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-4&quot;&gt;안흔한 개발자 분류 (2): 일하는 방식이 무엇?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;understanding-programmers-tip-5&quot;&gt;안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?&lt;/a&gt;&lt;/li&gt;
