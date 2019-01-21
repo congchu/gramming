@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>프라이</title>
-    <description>Programmer's Life Is Getting Better</description>
-    <link>https://congchu.github.io/priproject/</link>
-    <atom:link href="http://localhost:4000/priproject//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jan 2019 17:31:40 +0700</pubDate>
-    <lastBuildDate>Sun, 20 Jan 2019 17:31:40 +0700</lastBuildDate>
+    <title>Gramming</title>
+    <description></description>
+    <link>https://congchu.github.io/gramming/</link>
+    <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Jan 2019 15:21:22 +0700</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 15:21:22 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>지킬로 github blog 만들기 start
 </description>
         <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//start-github-blog-made-by-jekyll-list</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//start-github-blog-made-by-jekyll-list</guid>
+        <link>https://congchu.github.io/gramming//start-github-blog-made-by-jekyll-list</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//start-github-blog-made-by-jekyll-list</guid>
         
         <category>Studying Programming</category>
         
@@ -66,8 +66,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//preparing-job-tip-1</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//preparing-job-tip-1</guid>
+        <link>https://congchu.github.io/gramming//preparing-job-tip-1</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//preparing-job-tip-1</guid>
         
         <category>Preparing Job</category>
         
@@ -223,8 +223,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//understanding-programmers-tip-5</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//understanding-programmers-tip-5</guid>
+        <link>https://congchu.github.io/gramming//understanding-programmers-tip-5</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//understanding-programmers-tip-5</guid>
         
         <category>Understanding Programmers</category>
         
@@ -246,8 +246,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 23 Dec 2018 16:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//how-to-study-programming-tip-list</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//how-to-study-programming-tip-list</guid>
+        <link>https://congchu.github.io/gramming//how-to-study-programming-tip-list</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//how-to-study-programming-tip-list</guid>
         
         <category>How to Study Programming</category>
         
@@ -305,8 +305,8 @@
 &lt;p&gt;제가 처음에 중요하게 생각하는 것은 세번째 분류입니다.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//understanding-programmers-tip-4</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//understanding-programmers-tip-4</guid>
+        <link>https://congchu.github.io/gramming//understanding-programmers-tip-4</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//understanding-programmers-tip-4</guid>
         
         <category>Understanding Programmers</category>
         
@@ -341,8 +341,8 @@
 조금 다른 스타일이 분류를 한번 볼까요? 다음은 일하는 스타일/방식에 따른 분류입니다.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//understanding-programmers-tip-3</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//understanding-programmers-tip-3</guid>
+        <link>https://congchu.github.io/gramming//understanding-programmers-tip-3</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//understanding-programmers-tip-3</guid>
         
         <category>Understanding Programmers</category>
         
@@ -371,8 +371,8 @@
 - 스펙에 대한 고민 (나이 &amp; 학벌) --&gt;
 </description>
         <pubDate>Mon, 17 Dec 2018 01:13:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//understanding-programmers-list</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//understanding-programmers-list</guid>
+        <link>https://congchu.github.io/gramming//understanding-programmers-list</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//understanding-programmers-list</guid>
         
         <category>Understanding Programmers</category>
         
@@ -592,8 +592,8 @@ https://www.slideshare.net/pouu69/ss-58215884
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//mentoring-record-2</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//mentoring-record-2</guid>
+        <link>https://congchu.github.io/gramming//mentoring-record-2</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-2</guid>
         
         <category>Mentoring</category>
         
@@ -813,8 +813,8 @@ https://www.slideshare.net/pouu69/ss-58215884
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//mentoring-record-1-2</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//mentoring-record-1-2</guid>
+        <link>https://congchu.github.io/gramming//mentoring-record-1-2</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-1-2</guid>
         
         <category>Mentoring</category>
         
@@ -952,8 +952,8 @@ https://www.slideshare.net/pouu69/ss-58215884
 &lt;p&gt;&lt;a href=&quot;mentoring-record-1-2&quot;&gt;멘토링 다음 글 이어서 읽기&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/priproject//mentoring-record-1-1</link>
-        <guid isPermaLink="true">https://congchu.github.io/priproject//mentoring-record-1-1</guid>
+        <link>https://congchu.github.io/gramming//mentoring-record-1-1</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-1-1</guid>
         
         <category>Mentoring</category>
         
