@@ -11,7 +11,7 @@
 
 
 
-    <title>jekyll을 활용하여 github blog 만들기 (1)</title>
+    <title>MVC패턴과 모델1, 모델2</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -36,28 +36,26 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="" />
     <link rel="shortcut icon" href="http://localhost:4000/gramming/assets/images/logo/favicon.png" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/gramming/start-github-blog-made-by-jekyll-list" />
+    <link rel="canonical" href="http://localhost:4000/gramming/preamtree-mvc-pattern" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Gramming" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="jekyll을 활용하여 github blog 만들기 (1)" />
-    <meta property="og:description" content="지킬로 github blog 만들기 start
-" />
-    <meta property="og:url" content="http://localhost:4000/gramming/start-github-blog-made-by-jekyll-list" />
-    <meta property="og:image" content="http://localhost:4000/gramming/assets/images/cover/computer.jpg" />
+    <meta property="og:title" content="MVC패턴과 모델1, 모델2" />
+    <meta property="og:description" content="MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다. MVC란? 먼저 모델(Model), 뷰(View), 컨트롤러(Controller)에 대한 정의를 내리면 다음과 같다. Model: 데이터를 가진 객체, 파라미터로 자주 쓰인다. DB의 테이블과 대응하는 경우가 많다. View: UI를 담당한다. 클라이언트" />
+    <meta property="og:url" content="http://localhost:4000/gramming/preamtree-mvc-pattern" />
+    <meta property="og:image" content="http://localhost:4000/gramming/assets/images/cover/beach.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/minjung.koo2" />
     <meta property="article:author" content="https://www.facebook.com/minjung.koo2" />
-    <meta property="article:published_time" content="2018-12-23T17:00:00+07:00" />
-    <meta property="article:modified_time" content="2018-12-23T17:00:00+07:00" />
+    <meta property="article:published_time" content="2019-02-05T17:00:00+07:00" />
+    <meta property="article:modified_time" content="2019-02-05T17:00:00+07:00" />
     <meta property="article:tag" content="Studying Programming" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="jekyll을 활용하여 github blog 만들기 (1)" />
-    <meta name="twitter:description" content="지킬로 github blog 만들기 start
-" />
+    <meta name="twitter:title" content="MVC패턴과 모델1, 모델2" />
+    <meta name="twitter:description" content="MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다. MVC란? 먼저 모델(Model), 뷰(View), 컨트롤러(Controller)에 대한 정의를 내리면 다음과 같다. Model: 데이터를 가진 객체, 파라미터로 자주 쓰인다. DB의 테이블과 대응하는 경우가 많다. View: UI를 담당한다. 클라이언트" />
     <meta name="twitter:url" content="http://localhost:4000/gramming/" />
-    <meta name="twitter:image" content="http://localhost:4000/gramming/assets/images/cover/computer.jpg" />
+    <meta name="twitter:image" content="http://localhost:4000/gramming/assets/images/cover/beach.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Gramming" />
     <meta name="twitter:label2" content="Filed under" />
@@ -76,25 +74,24 @@
         "name": "Gramming",
         "logo": "http://localhost:4000/gramming/assets/images/logo/blog-icon.png"
     },
-    "url": "http://localhost:4000/gramming/start-github-blog-made-by-jekyll-list",
+    "url": "http://localhost:4000/gramming/preamtree-mvc-pattern",
     "image": {
         "@type": "ImageObject",
-        "url": "http://localhost:4000/gramming/assets/images/cover/computer.jpg",
+        "url": "http://localhost:4000/gramming/assets/images/cover/beach.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/gramming/start-github-blog-made-by-jekyll-list"
+        "@id": "http://localhost:4000/gramming/preamtree-mvc-pattern"
     },
-    "description": "지킬로 github blog 만들기 start
-"
+    "description": "MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다. MVC란? 먼저 모델(Model), 뷰(View), 컨트롤러(Controller)에 대한 정의를 내리면 다음과 같다. Model: 데이터를 가진 객체, 파라미터로 자주 쓰인다. DB의 테이블과 대응하는 경우가 많다. View: UI를 담당한다. 클라이언트"
 }
     </script>
     
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="jekyll을 활용하여 github blog 만들기 (1)" href="/gramming/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="MVC패턴과 모델1, 모델2" href="/gramming/feed.xml" />
 
 
 </head>
@@ -122,7 +119,7 @@ into the {body} of the default.hbs template -->
     <li class="nav-studying" role="menuitem"><a href="/gramming/tag/how-to-study-programming/">코딩공부팁</a></li>
     <li class="nav-preparing" role="menuitem"><a href="/gramming/tag/preparing-job/">취업준비팁</a></li>
     <li class="nav-mentoring" role="menuitem"><a href="/gramming/tag/mentoring/">멘토링기록</a></li>
-    <li class="nav-mentoring" role="menuitem"><a href="/gramming/tag/studying-programming/">IT노트</a></li>
+    <li class="nav-mentoring" role="menuitem"><a href="/gramming/tag/studying-programming/">기술면접준비</a></li>
 
 
 
@@ -175,7 +172,7 @@ into the {body} of the default.hbs template -->
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="23 December 2018">23 December 2018</time>
+                    <time class="post-full-meta-date" datetime=" 5 February 2019"> 5 February 2019</time>
                     
                         <span class="date-divider">/</span>
                         
@@ -185,17 +182,103 @@ into the {body} of the default.hbs template -->
                         
                     
                 </section>
-                <h1 class="post-full-title">jekyll을 활용하여 github blog 만들기 (1)</h1>
+                <h1 class="post-full-title">MVC패턴과 모델1, 모델2</h1>
             </header>
 
             
-            <figure class="post-full-image" style="background-image: url(/gramming/assets/images/cover/computer.jpg)">
+            <figure class="post-full-image" style="background-image: url(/gramming/assets/images/cover/beach.jpg)">
             </figure>
             
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    지킬로 github blog 만들기 start
+                    <p>MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다.</p>
+
+<p><br /></p>
+<center>
+<a href="https://preamtree.tistory.com/11" targer="_blank">
+<img src="https://t1.daumcdn.net/cfile/tistory/2452883B57F0B3C02B" alt="그림1" />
+</a>
+</center>
+<p><br /></p>
+
+<h3 id="mvc란">MVC란?</h3>
+<p>먼저 모델(Model), 뷰(View), 컨트롤러(Controller)에 대한 정의를 내리면 다음과 같다.
+<br /><br /></p>
+
+<ul>
+  <li><b>Model</b>: 데이터를 가진 객체, 파라미터로 자주 쓰인다. DB의 테이블과 대응하는 경우가 많다.</li>
+  <li><b>View</b>: UI를 담당한다. 클라이언트 측 기술인 Html, Css, Javascript등으로 만들어진 컨테이너이다.</li>
+  <li><b>Controller</b>: UI를 통한 사용자의 입력 명령에 응답하고, 및 데이터 흐름 제어를 담당한다.</li>
+</ul>
+
+<p><br />
+MVC의 흐름에 대해 간략히 설명하면 다음과 같다. 사용자(User)는 컨트롤러(Controller)를 사용(Uses)하여 웹 애플리케이션을 다룰 수 있다. 컨트롤러는 사용자의 요청에 맞는 데이터를 모델(Model)에 요청한다.(Manipulates) 뷰(View)는 모델이 리턴한 결과를 반영한다(Updates)</p>
+
+<p>그림과 설명에서 유추할 수 있겠지만, MVC패턴의 최대 장점은 <strong>사용자에게 보여지는 프레젠테이션 영역과 비즈니스 로직, 데이터 구조가 서로 완전히 분리되어 있다는 점</strong>이다. 프레젠테이션 영역은 다른 영역에 비해 수정이 매우 잦다는 것을 감안한다면 어느정도의 장점인지 알 수 있을 것이다.
+<br /><br /></p>
+<h3 id="모델1-vs-모델2">모델1 vs 모델2</h3>
+<p><br /></p>
+<center>
+<a href="https://preamtree.tistory.com/11" targer="_blank">
+<img src="https://t1.daumcdn.net/cfile/tistory/270EFE4C57F0C7A61C" alt="그림2" />
+</a>
+</center>
+<p><br />
+한편, 모델1과 모델2는 MVC를 구현하는 방식이라고 할 수 있다. 먼저 모델1과 모델2의 정의는 아래와 같다.
+<br /><br /></p>
+
+<ul>
+  <li><b>모델1</b>: 비즈니스 로직 영역(Controller)에 프레젠테이션 영역(View)을 같이 구현하는 방식이다.</li>
+  <li><b>모델2</b>: 비즈니스 로직 영역과 프레젠테이션 영역이 분리되어 있는 구현 방식이다.</li>
+</ul>
+
+<p><br />
+JAVA로 예를 들어 설명해보겠다. 모델1은 JSP에 비즈니스 로직과 프레젠테이션 영역을 함께 구현하는 방식이다. 이 방식은 비즈니스 로직이 복잡하지 않을 때 주로 쓰인다. 모델1 방식을 채택하면 빠르고 쉽게 개발할 수 있다는 장점이 있다. 하지만, JSP 파일 자체가 너무 비대해지고, Controller와 View가 혼재하므로 향후 유지보수에 어려움을 겪을 수 있다.</p>
+
+<p>모델2 방식은 View와 Controller를 분리하는 방식이다. 그래서 디자이너와 개발자의 분업이 가능하며 유지보수에 유리하다. 요즘 웹 개발의 메인스트림(?) 이라고 할 수 있는 REST가 바로 이 방식이다. 하지만 설계에서 어려움을 겪을 수 있고, 개발 난이도가 높다는 단점이 있다.</p>
+
+<p>모델1과 모델2를 비교한 내용을 표로 정리하면 다음과 같다.
+<br /><br /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">구분</th>
+      <th style="text-align: center">모델1</th>
+      <th style="text-align: center">모델2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">컨트롤러와<br />뷰의 분리 여부</td>
+      <td style="text-align: center">통합</td>
+      <td style="text-align: center">분리</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">장점</td>
+      <td style="text-align: center">쉽고빠른개발</td>
+      <td style="text-align: center">분업에 유리함</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">단점</td>
+      <td style="text-align: center">유지보수가어려움</td>
+      <td style="text-align: center">설계가 어려움<br />개발 난이도가 높음</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br />
+사실, 모델1 방식으로 웹 서비스를 개발하는 사례는 아예 없다고 봐도 무방하다. 지금은 프론트엔드 개발자와 백엔드 개발자의 역할이 명확해졌고, 모델1은 백엔드와 프론트엔드 역할 분담이 모호해서 오히려 협업에 걸림돌이 되기 때문이다.</p>
+
+<p><br /><br /><br /><br />
+-끝-
+<br /><br /><br /><br /><br /></p>
+
+<center>
+이 글은 <b>https://preamtree.tistory.com/11</b> 을 재구성하여 작성됐습니다.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</center>
 
                 </div>
             </section>
@@ -223,19 +306,21 @@ into the {body} of the default.hbs template -->
                 <!-- #author-->
                 
                     
+                
+                    
                         <section class="author-card">
                             
-                                <img class="author-profile-image" src="/gramming/assets/images/author_jeongkoo.png" alt="jeongkoo" />
+                                <img class="author-profile-image" src="/gramming/assets/images/author_jake.png" alt="jake" />
                             
                             <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="/gramming/author/jeongkoo">정쿠</a></h4>
+                                <h4 class="author-card-name"><a href="/gramming/author/jake">상진(Jake)</a></h4>
                                 
-                                    <p>프로그래머, 디지털노마드, 지속 가능한 행복을 추구하는 삶</p>
+                                    <p>카카오 인공지능 서버 개발자, 공부하고 정리하고 나누는 것을 좋아한다</p>
                                 
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="/gramming/author/jeongkoo">Read More</a>
+                            <a class="author-card-button" href="/gramming/author/jake">Read More</a>
                         </div>
                     
                 
@@ -353,11 +438,13 @@ s.setAttribute('data-timestamp', +new Date());
                 
                     
                         
-                        <img class="author-profile-image" src="/gramming/assets/images/author_jeongkoo.png" alt="정쿠" />
+                        <img class="author-profile-image" src="/gramming/assets/images/author_jeongkoo.png" alt="정쿠(Jeongkoo)" />
                         
                         <span class="post-card-author">
-                            <a href="/gramming/author/jeongkoo/">정쿠</a>
+                            <a href="/gramming/author/jeongkoo/">정쿠(Jeongkoo)</a>
                         </span>
+                    
+                
                     
                 
             </footer>
@@ -384,19 +471,19 @@ s.setAttribute('data-timestamp', +new Date());
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">jekyll을 활용하여 github blog 만들기 (1)</div>
+    <div class="floating-header-title">MVC패턴과 모델1, 모델2</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=jekyll%EC%9D%84+%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC+github+blog+%EB%A7%8C%EB%93%A4%EA%B8%B0+%281%29&amp;url=https://congchu.github.io/gramming/start-github-blog-made-by-jekyll-list"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=MVC%ED%8C%A8%ED%84%B4%EA%B3%BC+%EB%AA%A8%EB%8D%B81%2C+%EB%AA%A8%EB%8D%B82&amp;url=https://congchu.github.io/gramming/preamtree-mvc-pattern"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://congchu.github.io/gramming/start-github-blog-made-by-jekyll-list"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://congchu.github.io/gramming/preamtree-mvc-pattern"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 

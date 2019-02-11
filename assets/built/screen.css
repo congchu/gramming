@@ -689,7 +689,8 @@ body {
     opacity: 1
 }
 .site-nav-right {
-    height: 40px
+    height: 40px;
+    margin-left:15px;
 }
 .site-nav-right,
 .social-links {
@@ -1049,7 +1050,7 @@ body {
 }
 .post-template .kg-card-markdown > p:first-child {
     font-size: 1.25em;
-    line-height: 1.5em
+    line-height: 1.8em
 }
 .post-full-content a {
     color: #000;
@@ -2094,4 +2095,12 @@ body {
   width:30%;
   height:auto;
 }
+
+@media (min-width: 900px) {
+    .home-template .site-nav {
+        position: relative;
+        top:0px;
+    }
+}
+
 /*# sourceMappingURL=screen.css.map */

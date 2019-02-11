@@ -8,15 +8,16 @@
     
       
       <item>
-        <title>jekyll을 활용하여 github blog 만들기 (1)</title>
+        <title>MVC패턴과 모델1, 모델2</title>
         
-          <description>지킬로 github blog 만들기 start
+          <description>&lt;p&gt;MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다.&lt;/p&gt;
+
 </description>
         
-        <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
+        <pubDate>Tue, 05 Feb 2019 17:00:00 +0700</pubDate>
         <link>
-        http://localhost:4000/start-github-blog-made-by-jekyll-list</link>
-        <guid isPermaLink="true">http://localhost:4000/start-github-blog-made-by-jekyll-list</guid>
+        http://localhost:4000/preamtree-mvc-pattern</link>
+        <guid isPermaLink="true">http://localhost:4000/preamtree-mvc-pattern</guid>
       </item>
       
     

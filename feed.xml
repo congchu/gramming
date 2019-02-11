@@ -5,17 +5,103 @@
     <description></description>
     <link>https://congchu.github.io/gramming/</link>
     <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Jan 2019 19:21:37 +0700</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 19:21:37 +0700</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 15:44:56 +0700</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 15:44:56 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
-        <title>jekyll을 활용하여 github blog 만들기 (1)</title>
-        <description>지킬로 github blog 만들기 start
+        <title>MVC패턴과 모델1, 모델2</title>
+        <description>&lt;p&gt;MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/11&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/2452883B57F0B3C02B&quot; alt=&quot;그림1&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mvc란&quot;&gt;MVC란?&lt;/h3&gt;
+&lt;p&gt;먼저 모델(Model), 뷰(View), 컨트롤러(Controller)에 대한 정의를 내리면 다음과 같다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Model&lt;/b&gt;: 데이터를 가진 객체, 파라미터로 자주 쓰인다. DB의 테이블과 대응하는 경우가 많다.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;View&lt;/b&gt;: UI를 담당한다. 클라이언트 측 기술인 Html, Css, Javascript등으로 만들어진 컨테이너이다.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Controller&lt;/b&gt;: UI를 통한 사용자의 입력 명령에 응답하고, 및 데이터 흐름 제어를 담당한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+MVC의 흐름에 대해 간략히 설명하면 다음과 같다. 사용자(User)는 컨트롤러(Controller)를 사용(Uses)하여 웹 애플리케이션을 다룰 수 있다. 컨트롤러는 사용자의 요청에 맞는 데이터를 모델(Model)에 요청한다.(Manipulates) 뷰(View)는 모델이 리턴한 결과를 반영한다(Updates)&lt;/p&gt;
+
+&lt;p&gt;그림과 설명에서 유추할 수 있겠지만, MVC패턴의 최대 장점은 &lt;strong&gt;사용자에게 보여지는 프레젠테이션 영역과 비즈니스 로직, 데이터 구조가 서로 완전히 분리되어 있다는 점&lt;/strong&gt;이다. 프레젠테이션 영역은 다른 영역에 비해 수정이 매우 잦다는 것을 감안한다면 어느정도의 장점인지 알 수 있을 것이다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;모델1-vs-모델2&quot;&gt;모델1 vs 모델2&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/11&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/270EFE4C57F0C7A61C&quot; alt=&quot;그림2&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;
+한편, 모델1과 모델2는 MVC를 구현하는 방식이라고 할 수 있다. 먼저 모델1과 모델2의 정의는 아래와 같다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;모델1&lt;/b&gt;: 비즈니스 로직 영역(Controller)에 프레젠테이션 영역(View)을 같이 구현하는 방식이다.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;모델2&lt;/b&gt;: 비즈니스 로직 영역과 프레젠테이션 영역이 분리되어 있는 구현 방식이다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+JAVA로 예를 들어 설명해보겠다. 모델1은 JSP에 비즈니스 로직과 프레젠테이션 영역을 함께 구현하는 방식이다. 이 방식은 비즈니스 로직이 복잡하지 않을 때 주로 쓰인다. 모델1 방식을 채택하면 빠르고 쉽게 개발할 수 있다는 장점이 있다. 하지만, JSP 파일 자체가 너무 비대해지고, Controller와 View가 혼재하므로 향후 유지보수에 어려움을 겪을 수 있다.&lt;/p&gt;
+
+&lt;p&gt;모델2 방식은 View와 Controller를 분리하는 방식이다. 그래서 디자이너와 개발자의 분업이 가능하며 유지보수에 유리하다. 요즘 웹 개발의 메인스트림(?) 이라고 할 수 있는 REST가 바로 이 방식이다. 하지만 설계에서 어려움을 겪을 수 있고, 개발 난이도가 높다는 단점이 있다.&lt;/p&gt;
+
+&lt;p&gt;모델1과 모델2를 비교한 내용을 표로 정리하면 다음과 같다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;구분&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;모델1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;모델2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;컨트롤러와&lt;br /&gt;뷰의 분리 여부&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;통합&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;분리&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;장점&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;쉽고빠른개발&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;분업에 유리함&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;단점&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;유지보수가어려움&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;설계가 어려움&lt;br /&gt;개발 난이도가 높음&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;
+사실, 모델1 방식으로 웹 서비스를 개발하는 사례는 아예 없다고 봐도 무방하다. 지금은 프론트엔드 개발자와 백엔드 개발자의 역할이 명확해졌고, 모델1은 백엔드와 프론트엔드 역할 분담이 모호해서 오히려 협업에 걸림돌이 되기 때문이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+-끝-
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+이 글은 &lt;b&gt;https://preamtree.tistory.com/11&lt;/b&gt; 을 재구성하여 작성됐습니다.&lt;br /&gt;
+&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;&lt;img alt=&quot;크리에이티브 커먼즈 라이선스&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
 </description>
-        <pubDate>Sun, 23 Dec 2018 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/gramming//start-github-blog-made-by-jekyll-list</link>
-        <guid isPermaLink="true">https://congchu.github.io/gramming//start-github-blog-made-by-jekyll-list</guid>
+        <pubDate>Tue, 05 Feb 2019 17:00:00 +0700</pubDate>
+        <link>https://congchu.github.io/gramming//preamtree-mvc-pattern</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//preamtree-mvc-pattern</guid>
         
         <category>Studying Programming</category>
         
