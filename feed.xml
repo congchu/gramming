@@ -5,8 +5,8 @@
     <description></description>
     <link>https://congchu.github.io/gramming/</link>
     <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Feb 2019 16:19:54 +0700</pubDate>
-    <lastBuildDate>Mon, 11 Feb 2019 16:19:54 +0700</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 18:39:09 +0700</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 18:39:09 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -104,6 +104,94 @@ JAVA로 예를 들어 설명해보겠다. 모델1은 JSP에 비즈니스 로직�
         <guid isPermaLink="true">https://congchu.github.io/gramming//preamtree-mvc-pattern</guid>
         
         <category>Studying Programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Q. 30대 중반 신입 개발자로의 시작은 어떨까요?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;본 내용은 2019년 1월 온라인 스터디에서 받았던 질의응답 내용입니다.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h6 id=&quot;q-비전공자-30대-중반의-기획자-입니다-프로그래밍에-대해서는-잘-알진-못하고-sql을-이용해-간단한-데이터-추출은-하는-정도-입니다-개발자로-방향을-전향하고-싶어-현재-고민-중-입니다-30대-중반에-신입-개발자로의-시작이-현실적으로-어떠할-지-궁금합니다&quot;&gt;Q) 비전공자 30대 중반의 기획자 입니다. 프로그래밍에 대해서는 잘 알진 못하고 SQL을 이용해 간단한 데이터 추출은 하는 정도 입니다. 개발자로 방향을 전향하고 싶어 현재 고민 중 입니다. 30대 중반에 신입 개발자로의 시작이 현실적으로 어떠할 지 궁금합니다.&lt;/h6&gt;
+
+&lt;p style=&quot;margin-top: 50px; margin-bottom:30px;&quot; class=&quot;tip&quot;&gt;
+최대한 객관적으로 말씀드리고자 노력하였지만, 제 개인적인 경험과 의견이 상당히 반영되었다는 점을 고려하셔서 다양한 분들께 조언을 구하시는 걸 추천해 드립니다! 더 깊은 대화가 필요하시면 개인적인 상담 진행해드릴게요 :)
+&lt;/p&gt;
+
+&lt;p&gt;물론 어떤 일이든 마찬가지겠지만, 성향과 적성, 지금까지 걸어온 경력에 따라 다른 결과를 내실 거에요.
+제가 질문자님의 성향이나 스펙 등을 모르는 상태고, 어떤 느낌의 개발자를 고려하시는 건지 모르기 때문에 원론적인 이야기를 드려야 할 것 같습니다.
+(아시다시피 IT분야의 일도 좀 세분화 됩니다, 순수 개발자, 기술 영업, IT 관련 업 등)&lt;/p&gt;
+
+&lt;p&gt;결론부터 말씀드리면, ‘순수 개발자’가 되는 것은 절대 쉬운 길은 아니고,
+개인적으로도 그래야 하는 특별한 이유가 없으시다면 그다지 추천해 드리고 싶진 않습니다.
+(그래야 하는 특별한 이유란, 개발과 사랑에 빠졌다든지, 내 서비스를 꼭 내손으로 직접 만들겠다든지 등이 있겠네요)&lt;/p&gt;
+
+&lt;p&gt;30대 중반이면 신입 개발자로는 꽤 늦은 나이입니다.
+시간이 부족한 만큼, 남들보다 더 적성에 맞아야 하고 다른 사람들의 몇 배의 노력이 필요할 거예요.
+‘취업이 불가능하다’라고 말씀드리는 건 아닙니다만, 남들보다 출중한 능력을 보여주시지 않는다면
+‘SI 회사에 경력 뻥튀기‘를 해서 들어가는 게 한계이지 않을까 조심스레 말씀드려봅니다.
+지금보다 훨씬 적은 연봉으로, 더 많은 스트레스를 받고 일하게 되실 거에요 (물론 단기적인 이야기입니다)&lt;/p&gt;
+
+&lt;p&gt;해오셨던 경력과 잘 조합해서, 기획 + 개발의 영역으로 가신다면 조금 더 유리한 상황이긴 할꺼에요.
+기술 영업이나 IT관련 업종에 해당할 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;우선 ‘순수 개발자’가 되고자 하신다는 가정하에, 좀 더 자세히 이야기해 보겠습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;취업보다도 ‘프로그래밍을 공부하는 것‘에 좀 더 초점을 맞춰 말씀드리자면, 아래와 같은 내용이 중요하다고 생각합니다&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(취업은 스펙이나 이력에 영향을 많이 받기 때문에, 정보가 없는 상황에서는 이야기가 어려울 것 같아요. 다음에 개인적으로 필요하시면 도와드릴께요!)&lt;/p&gt;
+
+&lt;h3 id=&quot;1-절차를-세우는-타고난-감이-있어야-합니다논리적-사고를-말합니다&quot;&gt;(1) 절차를 세우는 타고난 감이 있어야 합니다(논리적 사고를 말합니다)&lt;/h3&gt;
+
+&lt;p&gt;프로그래밍을 통상 적성을 많이 타는 직종이라고들 말합니다.
+첫 번째, ‘절차를 세울 수 있는 감각/ 논리적인 사고‘가 필요해요. 타고나는 영역에 가깝습니다.
+일차적으로는 초등학교, 중학교 때 수학을 좋아하셨는지(ㅎㅎ)를 떠올려보시면 알 수 있을 것 같고요,
+한 두달 정도만 코딩을 해보면 어느정도 판단할 수 있는 부분이라고 생각합니다.&lt;/p&gt;
+
+&lt;p&gt;(본인의 느낌보다는 현직자가 보는 게 더 정확할 것 같아서요.
+이번 온라인 과정을 끝날 때쯤, 원하시면 이 부분에 대해서 피드백 드리도록 할게요!)&lt;/p&gt;
+
+&lt;h3 id=&quot;2-배움기술-분야에-즐거움을-느끼는-분들&quot;&gt;(2) 배움(기술 분야)에 즐거움을 느끼는 분들&lt;/h3&gt;
+&lt;p&gt;두 번째, 완전히 모르는 것을 만났을 때(특히 기술 분야) 스트레스를 받는 게 아닌, 즐거움+공부 욕구가 생기는 분들이 있습니다.
+이런 분들이 개발자에게 잘 맞는 성향입니다, 늦게 도전하셔도 빠르게 치고 나가는 분들이 이런 분들입니다.&lt;/p&gt;
+
+&lt;p&gt;프로그래밍은 기술의 영역이고, 기술을 공부한다는 건 끊임없는 자기의 무지함(흑흑ㅜ)을 맞닥뜨리는 일입니다.
+다른 사람들과 객관적인 비교가 가능하기에, 이미 앞서나간 사람들과 비교하며 자괴감이 상당히 자주 생길 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;영어 공부와 어느 정도 비슷하다고 생각하는데요, 실력이 느는 것이 바로바로 눈으로 보이지 않아요.
+계단식으로 성장하는 구조라고 보시면 됩니다.
+그래서 그 답답함을 견딜 수 있어야 하고, ‘늦어도 괜찮아, 못하는 게 당연한 거야, 하다 보면 언젠간 잘할 수 있을 거야’ 등등 긍정적으로 끊임없이 스스로에게 동기 부여를 할 수 있어야 합니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-끈기와-강력한-목표&quot;&gt;(3) 끈기와 강력한 목표&lt;/h3&gt;
+&lt;p&gt;최소 1년 정도의 공부가 필요합니다. 기술은 계속해서 변화하기 때문에 취업해서도 계속 자기계발을 해야 합니다.
+그래서 ‘반드시 내가 이걸 꼭 해야 한다’라는 강력한 목표가 필요하고요, 방대한 양임에도 포기하지 않고 할 수 있는 끈기와 성실함이 필요해요.
+늦으신 만큼 다른 분들보다 더 많이 집중해서 공부해야 합니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-올바른-계획과-방법을-활용하여-공부&quot;&gt;(4) 올바른 계획과 방법을 활용하여 공부&lt;/h3&gt;
+&lt;p&gt;개인적으로는 너무 중요한 내용이라고 생각합니다. 프로그래밍은 배우고 익히기에 쉬운 분야가 아닙니다. 이론과 실습이 적절히 병행되어야 하고, 수준별 공부 방법이 달라져야 합니다. ‘무작정 하면 어떻게든 되겠지’란 생각으로 공부하다보면 비효율적으로 시간을 낭비하게 될 수 있습니다. 예를 들어 동영상 강의만 보고 실습을 하지 않는다던지, 코드를 눈으로만 읽는다던지 하는 방법들은 잘못된 방법입니다.
+그런데 그러한 방법론에 대한 자료들도 지도도 충분하지 않은게 현실입니다. 몇가지 패턴화 할 수 있는 공부법은 추후 게시불로 알려드리도록 하겠습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;앞으로 프로그래밍 학습법에 대하여 '코딩 공부팁' 메뉴에 꾸준히 작성해 나갈 예정입니다.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-top: 50px; margin-bottom:30px;&quot; class=&quot;tip&quot;&gt;
+사실 특별하지 않은 뻔한 답변이라고 생각합니다. 그럼에도 불구하고 무엇보다 중요한 부분이라고 생각했습니다.
+&lt;br /&gt;
+&lt;br /&gt;직종을 바꾼다는 것은, 더군다나 그것이 기술직이라면, 지금까지의 경력을 대부분 포기하겠다는 의미입니다.
+&lt;br /&gt;전업을 한다면 나는 무엇을 잃고, 무엇을 얻을 것인지, 그럴만한 가치가 있는지 충분히 알아보고 고민해봐야 한다고 생각합니다.
+&lt;br /&gt;
+&lt;br /&gt;알아보기 위해서는 우선 시작해서 해봐야겠지요. 다만 처음부터 잘 모르는 상태에서 올인하는 것은 위험하다고 생각합니다.
+&lt;br /&gt;적어도 6개월 정도는 원래 간을 보시고, 프로그래밍 언어 하나에 익숙해지신 후, 웹이나 앱서비스를 하나 만들어보고 나서 결정하셨으면 합니다. 그 정도는 되어야 대충이나마 '개발이 이런거구나'라는 걸 느낄 수 있을 겁니다.
+&lt;br /&gt;
+&lt;br /&gt;많은 고민 끝에 '나는 하겠다'라는 결심이 섰다면, 올바른 방향으로 열심히 노력하신다면, 시간이 조금 걸리더라도 좋은 개발자가 될 수 있을거라고 생각합니다.
+&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Jan 2019 01:13:00 +0700</pubDate>
+        <link>https://congchu.github.io/gramming//mentoring-record-2</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-2</guid>
+        
+        <category>Mentoring</category>
         
         
       </item>
@@ -461,227 +549,6 @@ JAVA로 예를 들어 설명해보겠다. 모델1은 JSP에 비즈니스 로직�
         <guid isPermaLink="true">https://congchu.github.io/gramming//understanding-programmers-list</guid>
         
         <category>Understanding Programmers</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>멘토링 첫번째 기록 (2)</title>
-        <description>&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;si시스템-통합-sm시스템-운영에-대하여&quot;&gt;SI(시스템 통합), SM(시스템 운영)에 대하여&lt;/h5&gt;
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 보통 IT쪽에서의 대기업이 크게 (1) IT 인터넷 기업(IT 서비스 기업)과 (2)SI 대기업으로 나뉘거든요.
-&lt;br /&gt;나중에 옮기실 때는, 서비스 기업 말고 SI 대기업을 목표로 하시는 게 더 수월하실 거에요. &lt;br /&gt;그 중에서도, 삼섬SDS나 SK C&amp;amp;C처럼 IT를 주로 하는 기업은 스펙 등을 많이 봐서 쉽진 않을 것 같아요.
-&lt;br /&gt;목표로 하신다면 비 IT대기업의 서포트 직군 쪽으로 옮기시는게 조금 수월할 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; IT서포트 같은 경우는 어떤건가요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 음.. 비 IT기업에서 IT직군을 뽑는 경우를 말씀드리고 싶었던 건데요,
-&lt;br /&gt; 예를 들면, 지금 생각나는 곳은 농심이네요. 농심은 IT서비스 기업이 아니지만 IT직군을 뽑거든요.
-&lt;br /&gt; 이런 직군은 막 개발을 엄청 한다기 보다는, 사내 시스템 관리나 운영 쪽을 업무가 대부분이에요.
-&lt;br /&gt; 또 생각나는 곳은 인터파크 웹 사이트 운영/유지 보수 업무가 있네요.
-&lt;br /&gt; 운영 쪽 업무를 하고 싶으신거지요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; SM 이랑은 또 다른 분야인가요? 운영 쪽도 어떤건지 잘 모르겠어서 말씀을 못드리겠어요ㅠ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; SI는 새로 시스템(프로그램)을 개발하는 업무로, 무에서 유를 만드는(?)하는 거라고 보시면 됩니다.
-&lt;br /&gt; 이미 있는 시스템을 업데이트하는 경우도 있지만, 기본적으로 새로운 기능과 코드를 짜는 일이 일이 많아요.
-&lt;br /&gt;
-특징으로는 개발량이 많고, 빡세고, 출퇴근이 불규칙적일 가능성이 높습니다. 그 대신에 개발 실력 늘겠죠 (이것도 케바케이긴 합니다만..) 일자리가 많고 취업이 제일 쉬운 분야죠.&lt;/p&gt;
-
-&lt;p class=&quot;tip&quot;&gt;
-&lt;b&gt;[TIP]&lt;/b&gt; SI에 대해 좀 더 알고 싶다면,
-&lt;br /&gt;Okky에서 제작한 &lt;b&gt;《프리랜서 가이드라인 by OKKY》&lt;/b&gt;을 읽어보세요 =&amp;gt; &lt;a href=&quot;https://okky.kr/article/533991&quot; style=&quot;color:white; font-weight:bold;&quot; target=&quot;blank&quot;&gt;링크&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; SM(운영)은 SI가 시스템을 구축하고(만들고) 철수하면,
-&lt;br /&gt; 실제 운영을 시작합니다. 자잘한 버그 수정하고 시스템이 잘 동작하도록 보완하고 관리하지요.
-&lt;br /&gt; 업무 강도는 SI에 비교해서는 약하고, 출퇴근이 정해져있고 루틴한 업무를 반복하는 경우가 많아요.
-&lt;br /&gt; 그 안에서도 세부적으로 나뉘긴 합니다만. 일단 이 정도로 알아두시면 될 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아 그렇군요! SM 업무에도 관심이 있어서, 나중에 해보고 싶기도 합니다. 실력이 좀 늘은 뒤에요.&lt;/p&gt;
-
-&lt;h5 id=&quot;이력서포폴에는-불필요한-정보는-최소화하자&quot;&gt;이력서/포폴에는 불필요한 정보는 최소화하자&lt;/h5&gt;
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 참. 아까 이력서가 조금 이것저것 혼잡한 게 있다고 하셨는데요, 그럼 차라리 IT 관련없는 행사 기획 등은 빼는게 나을까요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  애매하네요.. 혹시 목표로 하는 회사가 있으신가요? 사람인이나 이런데서 보신 곳이 있나요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아니요.. 목표로 하는 회사는 없고 사람인같은 구직 싸이트에서 웹개발쪽으로 그냥 조건에 맞는 곳들을 넣고있어요&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 행사 기획관련 인턴은 호불호가 갈릴 것 같은데, 일단 기획이니까 마이너스는 아닐 것 같아요.
-&lt;br /&gt; 좀 애매해서 일단 살려두시고 면접 가봤는데, 그거 때문에 안좋게 말씀하시는 경우가 생기면 빼는게 좋을 것 같습니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 아, 참고로 면접은 최소 10번 본다고 생각하시는게 편하실 것 같아요.
-&lt;br /&gt; 개인적으로 연봉을 올리는 가장 쉬운 방법은, 여러군데 붙어서 원하는 곳에 높여서 가는거라고 생각합니다.&lt;/p&gt;
-
-&lt;h5 id=&quot;인턴과-신입으로-입사-중-무엇이-나을까&quot;&gt;인턴과 신입으로 입사 중 무엇이 나을까?&lt;/h5&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 인턴을 한번 더 할지, 바로 경력으로 입사할지가 고민이 됩니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  지금 상황에서는 인턴을 해서 경력 하나를 더 추가한다고 더 좋은 회사를 갈 수 있을지가 좀 애매한것 같아요.
-&lt;br /&gt; 프로젝트도 몇 있으시고, 인턴 경력도 이미 있으셔서요. IT는 아니지만요.
-&lt;br /&gt; 제 의견으로는 그냥 신입으로 들어가시고 짧게라도 하고 옮기시는게 나을 것 같습니다.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 6개월을 하고 이력에 넣어도 나쁘게 보지는 않나요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 음.. 안 좋게 보는 곳도 있겠죠. 그래도 제 생각에는.. 완전 신입보다는 더 선호할 것 같아요.
-&lt;br /&gt;회사 입장에서 신입은 가르쳐야할 게 산더미라서 부담스럽달까요..ㅎㅎ 6개월이라도 근무한 경력이 플러스가 되지 않을까 싶네요.
-&lt;br /&gt;그리고 또 멘티님 입장에서도 도움이 될 거라고 생각해요. ‘아 회사란 이런 곳이구나, 무슨 일을 하는구나, 어떤 직원을 바라는구나’이런 걸 느낄 수 있다는 점에서요.
-&lt;br /&gt;회사를 막상 다녀보면 지금 생각하시는 것과는 또 다른 느낌일거고, 더 많이 알고나면 더 나은 선택을 할 수 있을꺼에요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 물론 그걸 노리고 일부러 짧게 있을 필요는 없고, 처음부터 좋은 회사를 가는게 제일 좋겠죠!
-&lt;br /&gt; 그래도 첫번째에 좋은 회사를 가기 위해 인턴을 하는 건, 멘티님 상황에서는 그닥 도움이 되지 않을 것 같아요.
-&lt;br /&gt;‘인턴으로 배울 수 있는 것’, 그리고 ‘신입으로 경험할 수 있는 것’들 간에는 꽤 커다란 밀도의 차이가 있으리라 봐요.
-&lt;br /&gt;(인턴에게는 열심을 다해 알려주지 않는 경우가 많거든요, 곧 떠날 수도 있으니까요 (ㅠ))
-&lt;br /&gt;그래서 시간대비 효율적으로 신입으로 들어가는게 낫다는 의견입니다!&lt;/p&gt;
-
-&lt;h5 id=&quot;포트폴리오-피드백&quot;&gt;포트폴리오 피드백&lt;/h5&gt;
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  포트폴리오는 많이 고치셔야 할 것 같아요..
-&lt;br /&gt; 아까 이력서만 말씀드렸는데 포트폴리오도 상당히 혼란스럽습니다….ㅎㅎ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 아, 네. 어떤 내용을 수정하는게 좋을까요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 일단 페이지가 너무 많아요. 하나의 프로젝트에 길어야 4장 정도가 좋을 것 같아요.
-&lt;br /&gt; 글씨 배치도 이곳 저곳에 정렬되어 있지 않아서 보기가 어렵고, 폰트도 페이지마다 제각각이네요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 글씨 크기같은 건 어떤가요, 내용도 대표 기능들을 넣은 건데 조금 줄이는 게 나을까요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 네, 정리하는게 좋을 것 같습니다.
-통일시켜야 할 부분은 이래요&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;페이지 상단에 프로젝트 명 일관되게 쓰기&lt;/li&gt;
-  &lt;li&gt;글씨 색깔도 현란하지 않게 =&amp;gt; 많아야 3개 정도의 색만 쓰기&lt;/li&gt;
-  &lt;li&gt;폰트도 굴림체/바탕체보다는 Kopub, 고딕 종류로 일관되게 쓰기&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 개발하면서 고민했던 내용들이 들어가 있는 건 좋은 것 같아요.
-&lt;br /&gt;하지만 클래스까지 설명하실 필요는 없어요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 샘플이 흠… 잠시만요
-https://www.slideshare.net/pouu69/ss-58215884
-&lt;br /&gt; 템플릿이 예쁘진 않은데, 이게 그나마 내용은 잘 들어가 있는 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네! 다른 부분들도 조금 줄이는게 나을까요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; ‘주제 선정과 개발 동기’ 쪽은 줄이는 게 좋을 것 같고, ‘문제 해결’ 부분은 자세한 게 좋은 것 같아요.
-&lt;br /&gt;그리고 배경에 들어가는 이미지들은 다 빼시고 하나의 색상으로 통일하는 게 좋을 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 넵, 그럼 그냥 하얀색 바탕에 하는게 좋나요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 색상은 크게 상관 없긴합니다. 통일되는게 중요해요. 퍼블리셔 분들 포트폴리오 템플릿 참고하면 좋을 것 같아요.
-&lt;br /&gt;개인적으로 내용들은 좋은 것 같습니다. 정리만 잘하시면 굉장히 좋을 것 같아요!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; PPT 템플릿은 잘 못찾겠네요….
-구글에 ‘심플 PPT 템플릿’과 같이 검색해서, 맘에 드시는 거 쓰시면 좋을 것 같습니다.
-&lt;br /&gt;내용은 현재 내용에서 더 추가하진 마시고, 일관되게 다듬고 줄이는 수준으로만 하셔도 될 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 감사합니다!!&lt;/p&gt;
-
-&lt;p&gt;(내용 생략)&lt;/p&gt;
-
-&lt;h5 id=&quot;내가-개발하지-않은-파트는-설명하지-않기&quot;&gt;내가 개발하지 않은 파트는 설명하지 않기&lt;/h5&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  &lt;strong&gt;포트폴리오의 목적&lt;/strong&gt;은 이래요.
-&lt;br /&gt;1차로는 멘티님이 어떤 프로젝트를 했고, 무슨 기술을 써서 개발 했는지를 알고 싶은거에요.
-&lt;br /&gt;그걸 통해서 &lt;strong&gt;멘티님에게 어떤 경험이 있고, 어느 정도의 실력이 있는지를 알고자 하는 것이거든요.&lt;/strong&gt; &lt;br /&gt; 어떤 고민을 통해 개발했는지까지 넣으면 더 좋겠죠.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 내 역할이 무엇이고 어떤 기술을 써서 어떻게 개발했는지를 70~80% 정도의 비율로, 프로젝트 설명 2~30%정도의 비율로 생각하시고 정리하시는게 좋을 것 같아요.
-&lt;br /&gt; 어쨌든 그러한 이유로, 멘티님이 개발하지 않은 부분은 자세하게 넣으시면 안되기도 합니다. 팀원분들의 개발 내용은 빼시는게 좋을 것 같아요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 프로젝트나 이론 소개 등은 줄이는게 좋을 것 같네요. 네, 알겠습니다!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  이 글 참고하시면 좋을 것 같아요.
-&lt;br /&gt; https://okky.kr/article/368504 3번과 5번이 해당 내용이겠네요ㅎㅎ
-&lt;br /&gt; 3. 프레젠테이션 파일은 최대한 깔끔하게
-&lt;br /&gt; 5. 팀 프로젝트인 경우 본인(이력서를 제출한)의 역할을 뚜렷히 나타내세요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네! 포트폴리오 만들 때 참고했던 글인데 다시 보고 정리를 해야겠어요!!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  넵! :) 포트폴리오는 수정하시고 한번 더 보내주세요 ㅎㅎ
-&lt;br /&gt;1차 수정의 목표는,&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;(1) 템플릿을 심플하게 바꾸기&lt;/li&gt;
-  &lt;li&gt;(2) 타이틀 등을 일관되게 수정하기&lt;/li&gt;
-  &lt;li&gt;(3) 분량을 반으로 줄이기
-입니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네, 알겠습니다!&lt;/p&gt;
-
-&lt;h5 id=&quot;면접에서-포트폴리오-관련-질문&quot;&gt;면접에서 포트폴리오 관련 질문&lt;/h5&gt;
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 참, 면접에서 포트폴리오에 대한 질문은 어떤게 나오나요?
-&lt;br /&gt; 어떠한 기술을 썼는지, 사용 기술에 대한 이론이나 어려웠던 점 이런 걸 물어보나요?&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  음… 가장 많이 받았던 질문은 막연하게 ‘했던 프로젝트에 대해 설명해주세요’였어요.
-&lt;br /&gt; 이어서 나오는 질문으로 ‘그 중에서 정쿠님이 담당하신 파트는 어떤 건가요? 어떤 부분이 가장 힘들었나요? 어려웠나요? 어떤 문제가 있었나요? 어떻게 해결했나요?’
-와 같은 질문을 가장 많이 받았던 것 같습니다. 기술적인 구현 어떻게 했는지 물어본 적도 있고요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 포트폴리오에 쓰신 것중에서는 뭐든 나올 수 있긴 합니다만, 기술적으로 깊게는 잘 안물어보셨던 것 같아요.
-&lt;br /&gt;그래도 킬링 포인트(?)로 기술에 대해 미리 알아두시면, 기회가 왔을 때 플러스 점수를 얻으실 수 있을거에요!
-&lt;br /&gt;기회를 만들 수도 있겠죠 :)&lt;/p&gt;
-
-&lt;h5 id=&quot;마무리-인사-&quot;&gt;마무리 인사 :)&lt;/h5&gt;
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네네! 그렇군요! 감사합니다!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt; 네! 면접 너무 무서워하지 마시고요 ㅎㅎ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; ㅠㅠㅠ 네 엄청 무서워하고 있었는데 ㅠ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  사람인에 이력서 넣어도 연락 안오는 경우도 많으니까 떨어졌다고 슬퍼하지 않으셔도 돼요. ㅎㅎ 저도 많이 당해봤습니다..후후&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 그렇군요ㅠ 힘든 과정이네요 ㅠ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  한번에 붙으려는 마음을 좀 내려놓으시면 여유도 좀 생길거에요.
-&lt;br /&gt; 면접도 보다보면 늘어요:) 면접관 표정도 읽게되고, 어떤 말을 하면 좋아하는지, 어떤 말을 했을 때 안좋아지는지 알게 될거에요.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네 ㅠㅠ 그렇군요ㅠ 감사합니다ㅠ 도움이 많이 되었어요!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  넵넵!! 고생하셨어요 :) 원하는데 후딱 붙으시길 바랄께요 ㅎㅎ&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 포트폴리오 한번 정리를 해서 한번 더 연락을 드릴게요! ㅠ
-아니에요 더 고생많으셨죠!! 네 늦은 시간까지 정말 친절하게 감사합니다!!^^&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;mento-name&quot;&gt;정쿠&lt;/span&gt;  네, 포트폴리오 수정하시고 연락주세요!
-다음에 완성시켜 보아요 :) 좋은 밤 되세요~~!!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;menti-name&quot;&gt;멘티&lt;/span&gt; 네네 정말 감사합니다!!! 굿밤되세요~~!!!!^^&lt;/p&gt;
-
-&lt;h5 id=&quot;피드백-정리&quot;&gt;피드백 정리&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;‘포트폴리오의 문제점 -&amp;gt; 면접관이 느끼게 될 느낌’ 순서로 정리해봤어요.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;폰트와 디자인이 통일성이 없다 =&amp;gt; 인사담당자: 특이하거나 꼼꼼하지 않은 성격일 것 같다.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;보완 방법: 템플릿(배경과 구성) 통일해주세요&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;보완 방법: 전체 폰트도 통일이 필요합니다. 무난한 Kopub 돋움체 추천드려요&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;정리가 잘 되어 있지 않고, 불필요한 페이지가 많다 =&amp;gt; 인사담당자: 읽기 불편하다. 일단 별로 읽고 싶어지지 않는다. 비호감.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;보완 방법: 표지를 없애고, Page 3~8 한장으로 만들고, 이어지는 PPT들도 비슷하게 합쳐주세요.&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;‘내용이 중요하지 템플릿이나 디자인이 뭐가 중요합니까?’라고 생각하실 수도 있는데요,
-면접관들은 생각보다 포트폴리오를 꼼꼼하게 읽지 않습니다.
-하루에도 엄청나게 많은 포폴이 올테니까요
-
-포폴에서 풍기는 ‘느낌'이나 ‘분위기'가 멘티님을 판단하는 첫번째 요소가 될 거에요.
-직장인들은 보편적으로 일단 익숙한 느낌의 정리된 포트폴리오를 좋아해요.
-
-여기서 잠깐,
-'잘 정리되서 읽기 좋은' 포트폴리오와 '평범하고 특징 없는' 포트폴리오는 다른 의미라는 것을 알아주세요 :) !!
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Jul 2017 17:00:00 +0700</pubDate>
-        <link>https://congchu.github.io/gramming//mentoring-record-2</link>
-        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-2</guid>
-        
-        <category>Mentoring</category>
         
         
       </item>
