@@ -5,9 +5,115 @@
     <description></description>
     <link>https://congchu.github.io/gramming/</link>
     <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Feb 2019 16:42:36 +0700</pubDate>
-    <lastBuildDate>Wed, 13 Feb 2019 16:42:36 +0700</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 14:59:55 +0700</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 14:59:55 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>Q. 회사 밖, 어디서 프로그래밍을 배울 수 있는 환경을 만들 수 있을까요?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;본 내용은 2019년 1월 온라인 스터디에서 받았던 질의응답 내용입니다.&lt;/em&gt;
+&lt;em&gt;질문자 분은 IT가 아닌 기타 전공 대학생 분이었습니다. 그래서 조금 더 대학생 관점에 초점을 맞춰 답변을 드렸습니다:)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h6&gt;Q)프로그래밍을 공부할 때, 배울 수 있는 사람과 회사가 중요하다고 들었습니다. &lt;br /&gt;
+그런데 저는 IT회사를 다니지 않고 있습니다. 회사가 아니라면 어디서 인연을 쌓을 수 있을까요??&lt;/h6&gt;
+
+&lt;p&gt;이제 입문하셨기 때문에, 협업 개발자가 진행하는(주도하는) 소규모 스터디에 들어가시는 걸 추천 드립니다.
+&lt;br /&gt; 입문자 분들께는 함께 고민하는 동료도 좋지만, 학습 방법을 가이드해주고 시행착오를 줄여줄 수 있는 멘토가 더 필요하다고 생각합니다.
+&lt;br /&gt; 가장 좋은 방법은 좋은 멘토와 동료를 함께 만나는 것이겠죠 :)&lt;/p&gt;
+
+&lt;p&gt;개발자가 진행하는 스터디는 다양한 곳에 있습니다만, 현업 개발자가 진행하는 스터디(강의)는 대부분 유료이기 때문에, 부담스러우시면 학생들끼리의 스터디도 괜찮을 것 같습니다.&lt;/p&gt;
+
+&lt;p&gt;모임은 어떤 형태든 좋습니다.
+&lt;br /&gt; 친목이 병행되었으면 좋겠다 하시면 커뮤니티성 모임이 좋고, 공부가 우선이다 하시면 스터디가 더 좋겠지요.
+&lt;br /&gt; 꼭 하나만 해야하는 것도 아닙니다. 여력이 된다면 여러 개에 참여 하시는 걸 추천드립니다.
+&lt;br /&gt; 무엇보다 꾸준히, 그리고 어디서든 성실하게 참여하시길 부탁드립니다.
+&lt;br /&gt;거기서 만난 인연이 또 어디서 어떻게 이어질지 모르는 거니까요:)&lt;/p&gt;
+
+&lt;p&gt;추천하는 스터디/커뮤니티에 별표 체크해뒀습니다!&lt;/p&gt;
+
+&lt;h5 id=&quot;-오프라인-스터디-&quot;&gt;[ 오프라인 스터디 ]&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;남궁성의 자바초보 스터디 네이버 카페 (★★★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;특징 : 무료이며, 학생끼리 스터디 진행, 자바 언어를 집중적으로 스터디 함&lt;/li&gt;
+  &lt;li&gt;링크 : https://cafe.naver.com/javachobostudy.cafe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;러닛 (★★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;특징 : 유료, 스터디 진행자가 있음, 두 가지 형식의 스터디(리얼 책으로 스터디, 또는 전문가 강의형)가 있음, 고급 개발 쪽이 활발&lt;/li&gt;
+  &lt;li&gt;링크: https://www.learnit.co.kr/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;기타 사이트&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;코알라(코딩 좀 알려주라),오픈컬리지 등&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;온라인-스터디&quot;&gt;[온라인 스터디]&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;스터디파이 (★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;특징 : 유료, 스터디 진행자(현업)가 있음, 각자 공부하고 온라인 토론이 병행되는 형식, 인연을 쌓기는 쉽지 않음&lt;/li&gt;
+  &lt;li&gt;링크 : https://studypie.co/ko&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;margin-bottom:30px;&quot; class=&quot;tip&quot;&gt;
+ 스터디 파이에서 제가 진행하는 스터디입니다 :)
+ &lt;br /&gt;- 자바 프로그래밍 입문 : https://studypie.co/ko/course/java_beginner
+ &lt;br /&gt;- HTML/CSS로 만드는 웹 포트폴리오 : https://studypie.co/ko/course/web_portfolio
+&lt;/p&gt;
+
+&lt;h5 id=&quot;-커뮤티니-성격을-지닌-페이스북-페이지들-&quot;&gt;[ 커뮤티니 성격을 지닌, 페이스북 페이지들 ]&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;9XD: Young, Wild Coders (★★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;9x년 생 개발자들의 모임&lt;/li&gt;
+  &lt;li&gt;특징 : 친목 커뮤니티가 활발한 편, 참여자들의 실력은 케바케, 꼭 90년대 생이어야 할 필요는 없는 듯&lt;/li&gt;
+  &lt;li&gt;링크: https://www.facebook.com/groups/9xdevelopers/?ref=bookmarks&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;생활코딩 스터디 (★★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;스터디를 목표로 만들어진 페이스북 페이지&lt;/li&gt;
+  &lt;li&gt;특징 : 진짜 스터디를 통해 공부하고 싶은 사람들이 모일 것(으로 추정됨)&lt;/li&gt;
+  &lt;li&gt;링크 : https://web.facebook.com/groups/490410887693322/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-개발자-커뮤니티-&quot;&gt;[ 개발자 커뮤니티 ]&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;OKKY(★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;초보 개발자 커뮤니티&lt;/li&gt;
+  &lt;li&gt;특징: 초보자들이 편하게 활동할 수 있는 거의 유일한 커뮤니티(로 보임),질의응답 및 고민상담(?)이 활발할 편, 다양한 스터디 모임글이 올라옴&lt;/li&gt;
+  &lt;li&gt;링크 : https://okky.kr/articles/gathering&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;-카카오-그룹챗방-&quot;&gt;[ 카카오 그룹챗방 ]&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;개인적으로 부담없이 편하게 시작할 수 있는 방법 중 하나라고 생각해서 추천드립니다 (★★★★)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;마지막으로 ‘카카오 오픈 그룹 채팅방‘을 활용하라고 말씀드리고 싶은데요, 개인적으로 가장 쉬운 방법 중 하나 인 것 같아요.&lt;/li&gt;
+  &lt;li&gt;오픈 채팅방에 ‘개발, IT, java’ 등으로 검색해서 여러 군데 접속해보고, 가장 활발하고 분위기 좋아보이는 데서 활동을 시작하시면 좋을 것 같아요.&lt;/li&gt;
+  &lt;li&gt;눈팅만으로 엄청난 양의 정보 습득할 수 있고요, 오프라인 모임도 참여하면서 인맥도 쌓을 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;누가 진정한 고수(?)인지 대화를 보고 미리 판단할 수 있기도 하고요, 챗방에 상주하시는 고수님들은 기본적으로 대화하고 알려주는 걸 좋아하시는 분들이라 친해지면 큰 도움이 되실거라고 봅니다 ㅎㅎ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style=&quot;margin-top: 50px; margin-bottom:30px;&quot; class=&quot;tip&quot;&gt;
+&lt;br /&gt; 위의 내용은 지속적으로 추가해 나갈 예정입니다. 혹시 잘못된 정보가 있다면 알려주시면 감사하겠습니다 :)
+
+&lt;br /&gt;
+&lt;br /&gt;
+[업데이트 기록]
+&lt;br /&gt; - 2019.01.20 1차 리스트 업
+&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 01:00:00 +0700</pubDate>
+        <link>https://congchu.github.io/gramming//mentoring-record-3</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//mentoring-record-3</guid>
+        
+        <category>Mentoring</category>
+        
+        
+      </item>
     
       <item>
         <title>MVC패턴과 모델1, 모델2</title>

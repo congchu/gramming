@@ -8,6 +8,24 @@
     
       
       <item>
+        <title>Q. 회사 밖, 어디서 프로그래밍을 배울 수 있는 환경을 만들 수 있을까요?</title>
+        
+          <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;본 내용은 2019년 1월 온라인 스터디에서 받았던 질의응답 내용입니다.&lt;/em&gt;
+&lt;em&gt;질문자 분은 IT가 아닌 기타 전공 대학생 분이었습니다. 그래서 조금 더 대학생 관점에 초점을 맞춰 답변을 드렸습니다:)&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Feb 2019 01:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/mentoring-record-3</link>
+        <guid isPermaLink="true">http://localhost:4000/mentoring-record-3</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>MVC패턴과 모델1, 모델2</title>
         
           <description>&lt;p&gt;MVC패턴은 웹 애플리케이션 개발 방법론(혹은 아키택쳐) 중 하나로 유명하다. 웹 프레임워크의 대부분은 MVC패턴을 채택하고 있다. 이 글에서는 MVC와 MVC패턴의 모델1, 모델2에 대해 간략하게 다룬다.&lt;/p&gt;
