@@ -5,8 +5,8 @@
     <description></description>
     <link>https://congchu.github.io/gramming/</link>
     <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 16:25:46 +0700</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 16:25:46 +0700</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 16:40:58 +0700</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 16:40:58 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
     
       <item>
@@ -746,7 +746,7 @@ JAVA로 예를 들어 설명해보겠다. 모델1은 JSP에 비즈니스 로직�
       </item>
     
       <item>
-        <title>멘토링 첫번째 기록 (2)</title>
+        <title>1st 멘토링 기록(2) - SI와 SM에 대하여, 포트폴리오 피드백</title>
         <description>&lt;h1 id=&quot;목차&quot;&gt;목차&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;mentoring-record-1-1&quot;&gt;첫번째 대화 다시보기&lt;/a&gt;&lt;/p&gt;
 
@@ -967,7 +967,7 @@ https://www.slideshare.net/pouu69/ss-58215884
       </item>
     
       <item>
-        <title>멘토링 첫번째 기록 (1)</title>
+        <title>1st 멘토링 기록(1) - 이력서 피드백 &amp; 상담</title>
         <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;멘티
 - 사회학계열 / 취준생 / 교육 및 프로젝트 3-4개 보유
 - IT 회사에 대해 잘 모름
