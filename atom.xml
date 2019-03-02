@@ -8,6 +8,22 @@
     
       
       <item>
+        <title>교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</title>
+        
+          <description>&lt;p&gt;&lt;strong&gt;교착상태(DeadLock)&lt;/strong&gt; 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다.
+&lt;br /&gt; 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 01 Mar 2019 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/preamtree-deadlock-dining-philosophers</link>
+        <guid isPermaLink="true">http://localhost:4000/preamtree-deadlock-dining-philosophers</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Q. 왜 한국에서는 40대가 되면 프로그래머를 계속하기 어렵나요?</title>
         
           <description>&lt;blockquote&gt;

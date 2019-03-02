@@ -5,9 +5,99 @@
     <description></description>
     <link>https://congchu.github.io/gramming/</link>
     <atom:link href="http://localhost:4000/gramming//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Feb 2019 16:03:44 +0700</pubDate>
-    <lastBuildDate>Wed, 20 Feb 2019 16:03:44 +0700</lastBuildDate>
+    <pubDate>Sat, 02 Mar 2019 15:41:19 +0700</pubDate>
+    <lastBuildDate>Sat, 02 Mar 2019 15:41:19 +0700</lastBuildDate>
     <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</title>
+        <description>&lt;p&gt;&lt;strong&gt;교착상태(DeadLock)&lt;/strong&gt; 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다.
+&lt;br /&gt; 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/18&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/21240A485803145830&quot; alt=&quot;그림1&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;교착상태의-발생조건&quot;&gt;교착상태의 발생조건&lt;/h2&gt;
+&lt;p&gt;교착상태가 발생하는 조건은 4가지가 있는데, 4가지 모두 만족해야만 교착상태가 일어난다. 조건 4가지는 다음과 같다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;상호 배제(Mutual exclusion)&lt;/li&gt;
+  &lt;li&gt;점유 상태로 대기(Hold and wait)&lt;/li&gt;
+  &lt;li&gt;선점 불가(No preemption)&lt;/li&gt;
+  &lt;li&gt;순환성 대기(Circular wait)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;1-상호-배제mutual-exclusion&quot;&gt;1. 상호 배제(Mutual exclusion)&lt;/h3&gt;
+
+&lt;p&gt;상호 배제는 프로그램들이 공유 자원을 동시에 쓸 수 없는 상황을 일컫는다. 상호 배제를 해제하는 것은 가장 확실한 교착상태 제거 방법이지만 잘 사용하지 않는다. 너무 엄격하기 때문이다. 줄여서 Mutex라고도 부른다. 자세한 것은 &lt;a href=&quot;https://preamtree.tistory.com/26&quot;&gt;여기&lt;/a&gt;를 눌러 확인할 수 있다.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-점유-상태로-대기-hold-and-wait&quot;&gt;2. 점유 상태로 대기 (Hold and wait)&lt;/h3&gt;
+
+&lt;p&gt;말 그대로 (공유)자원을 점유한 상태에서 다른 자원을 기다린다는 것. 할당받은 자원을 사용하지 않으면서 계속 점유하면 그 자원이 필요한 프로세스는 계속 대기하게 된다. 여기에 더하여 만약 순환성 대기(A-&amp;gt;B-&amp;gt;C-&amp;gt;A)가 발생한다면…
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-선점-불가no-preemption&quot;&gt;3. 선점 불가(No preemption)&lt;/h3&gt;
+
+&lt;p&gt;자원을 어떤 프로세스가 점유 중일 때, 다른 프로세스가 그 자원을 뺏을 수 없다는 것이다. 하지만 앞서 언급한 ‘점유 상태로 대기’와 같은 특수한 상황이 아니라면 자원을 뺏어오는 것은 매우 위험하다.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4-순환성-대기circular-wait&quot;&gt;4. 순환성 대기(Circular wait)&lt;/h3&gt;
+
+&lt;p&gt;대기가 꼬리에 꼬리를 문 상황이다. 연쇄 대기를 해결하려고 해도 결국 자기 자신으로 돌아와 버리니 해결할 수가 없다.
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;식사하는-철학자들dining-philosopher&quot;&gt;식사하는 철학자들(Dining Philosopher)&lt;/h2&gt;
+&lt;p&gt;이제 식사하는 철학자(Dining Philosopher)에 대해 설명할 것이다. 식사하는 철학자 문제는 교착상태를 이해하는데 아주 좋은 예제이다.&lt;/p&gt;
+
+&lt;p&gt;5명의 철학자가 원탁에 앉아 있고 각자의 앞에는 스파게티가 있다. 그리고 양 옆에 포크가 하나씩 있다. 각각의 철학자는 스파게티를 먹으려면 포크를 2개 사용해야하며, 다른 철학자에게 말을 걸 수 없고 포크를 빼앗을 수 없다는 조건이 있다. (아래 그림과 함께 보면 좋다.)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/18&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/253CDD4B5802FBB52A&quot; alt=&quot;그림2&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;이 상황에서 철학자들이 동시에 오른쪽 포크를 집어든다면? (철학자들이 프로세스, 포크가 자원이라고 생각하면 편하다.)
+ &lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;철학자들은 포크를 공유할 수 없고&lt;b&gt;(상호 배제)&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;자신의 왼쪽에 앉은 철학자가 포크를 놓을 때까지 기다린다.&lt;b&gt;(점유 상태로 대기)&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;철학자들은 왼쪽 철학자의 포크를 빼앗을 방법이 없으며&lt;b&gt;(선점 불가)&lt;/b&gt;&lt;/li&gt;
+  &lt;li&gt;각 철학자들은 자신의 왼쪽 철학자의 포크를 대기한다.&lt;b&gt;(순환대기)&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+위에서 다루었던 교착상태의 조건 4가지를 모두 만족했다. 그러므로 현재 교착상태이다. 이러한 교착 상태를 회피하려면 발생조건 4가지 중 한가지만 해제하면 된다.&lt;/p&gt;
+
+&lt;p&gt;상호 배제와 선점 불가는 이 문제의 조건이므로 해소할 수 없다. ‘점유 상태로 대기’를 해제하려면 왼쪽 포크를 집을 수 없을 때, 오른쪽 포크를 식탁 위에 내려놓도록 하는 방법이 있다. ‘순환 대기’를 해소하려면 포크에 우선 순위를 매기는 방법이 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+-끝-
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+이 글은 &lt;b&gt;https://preamtree.tistory.com/18&lt;/b&gt; 을 재구성하여 작성됐습니다.&lt;br /&gt;
+&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;&lt;img alt=&quot;크리에이티브 커먼즈 라이선스&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Fri, 01 Mar 2019 17:00:00 +0700</pubDate>
+        <link>https://congchu.github.io/gramming//preamtree-deadlock-dining-philosophers</link>
+        <guid isPermaLink="true">https://congchu.github.io/gramming//preamtree-deadlock-dining-philosophers</guid>
+        
+        <category>Studying Programming</category>
+        
+        
+      </item>
     
       <item>
         <title>Q. 왜 한국에서는 40대가 되면 프로그래머를 계속하기 어렵나요?</title>

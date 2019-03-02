@@ -11,7 +11,7 @@
 
 
 
-    <title>개발자 이해하기 시리즈 목차</title>
+    <title>교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
@@ -36,30 +36,30 @@
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="" />
     <link rel="shortcut icon" href="http://localhost:4000/gramming/assets/images/logo/favicon.png" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/gramming/understanding-programmers-list" />
+    <link rel="canonical" href="http://localhost:4000/gramming/preamtree-deadlock-dining-philosophers" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
 
      <!--title below is coming from _includes/dynamic_title-->
     <meta property="og:site_name" content="Gramming" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="개발자 이해하기 시리즈 목차" />
-    <meta property="og:description" content="개발자 이해하기 시리즈 목차 오해와 진실(1) 제가 개발자가 잘 맞을까요? 오해와 진실(2) 개발자는 개발만 잘하면 되나요? 흔한 개발자 분류 (1) : 사용하는 기술이 무엇? 안흔한 개발자 분류 (2): 일하는 방식이 무엇? 안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율? 어떤 회사들이 있을까? (1): IT 기업 규모별 분류 어떤 회사들이" />
-    <meta property="og:url" content="http://localhost:4000/gramming/understanding-programmers-list" />
-    <meta property="og:image" content="http://localhost:4000/gramming/assets/images/cover/programmer.jpg" />
+    <meta property="og:title" content="교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)" />
+    <meta property="og:description" content="교착상태(DeadLock) 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다. 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다. 교착상태의 발생조건 교착상태가 발생하는 조건은 4가지가 있는데, 4가지 모두 만족해야만 교착상태가 일어난다. 조건 4가지는" />
+    <meta property="og:url" content="http://localhost:4000/gramming/preamtree-deadlock-dining-philosophers" />
+    <meta property="og:image" content="http://localhost:4000/gramming/assets/images/cover/circletable.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/devgramming/" />
     <meta property="article:author" content="https://www.facebook.com/devgramming/" />
-    <meta property="article:published_time" content="2018-12-17T01:13:00+07:00" />
-    <meta property="article:modified_time" content="2018-12-17T01:13:00+07:00" />
-    <meta property="article:tag" content="Understanding Programmers" />
+    <meta property="article:published_time" content="2019-03-01T17:00:00+07:00" />
+    <meta property="article:modified_time" content="2019-03-01T17:00:00+07:00" />
+    <meta property="article:tag" content="Studying Programming" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="개발자 이해하기 시리즈 목차" />
-    <meta name="twitter:description" content="개발자 이해하기 시리즈 목차 오해와 진실(1) 제가 개발자가 잘 맞을까요? 오해와 진실(2) 개발자는 개발만 잘하면 되나요? 흔한 개발자 분류 (1) : 사용하는 기술이 무엇? 안흔한 개발자 분류 (2): 일하는 방식이 무엇? 안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율? 어떤 회사들이 있을까? (1): IT 기업 규모별 분류 어떤 회사들이" />
+    <meta name="twitter:title" content="교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)" />
+    <meta name="twitter:description" content="교착상태(DeadLock) 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다. 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다. 교착상태의 발생조건 교착상태가 발생하는 조건은 4가지가 있는데, 4가지 모두 만족해야만 교착상태가 일어난다. 조건 4가지는" />
     <meta name="twitter:url" content="http://localhost:4000/gramming/" />
-    <meta name="twitter:image" content="http://localhost:4000/gramming/assets/images/cover/programmer.jpg" />
+    <meta name="twitter:image" content="http://localhost:4000/gramming/assets/images/cover/circletable.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Gramming" />
     <meta name="twitter:label2" content="Filed under" />
-    <meta name="twitter:data2" content="Understanding Programmers" />
+    <meta name="twitter:data2" content="Studying Programming" />
     <meta name="twitter:site" content="@" />
     <meta name="twitter:creator" content="@" />
     <meta property="og:image:width" content="1400" />
@@ -74,24 +74,24 @@
         "name": "Gramming",
         "logo": "http://localhost:4000/gramming/assets/images/logo/blog-icon.png"
     },
-    "url": "http://localhost:4000/gramming/understanding-programmers-list",
+    "url": "http://localhost:4000/gramming/preamtree-deadlock-dining-philosophers",
     "image": {
         "@type": "ImageObject",
-        "url": "http://localhost:4000/gramming/assets/images/cover/programmer.jpg",
+        "url": "http://localhost:4000/gramming/assets/images/cover/circletable.jpg",
         "width": 2000,
         "height": 666
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/gramming/understanding-programmers-list"
+        "@id": "http://localhost:4000/gramming/preamtree-deadlock-dining-philosophers"
     },
-    "description": "개발자 이해하기 시리즈 목차 오해와 진실(1) 제가 개발자가 잘 맞을까요? 오해와 진실(2) 개발자는 개발만 잘하면 되나요? 흔한 개발자 분류 (1) : 사용하는 기술이 무엇? 안흔한 개발자 분류 (2): 일하는 방식이 무엇? 안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율? 어떤 회사들이 있을까? (1): IT 기업 규모별 분류 어떤 회사들이"
+    "description": "교착상태(DeadLock) 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다. 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다. 교착상태의 발생조건 교착상태가 발생하는 조건은 4가지가 있는데, 4가지 모두 만족해야만 교착상태가 일어난다. 조건 4가지는"
 }
     </script>
     
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="개발자 이해하기 시리즈 목차" href="/gramming/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)" href="/gramming/feed.xml" />
 
 
 </head>
@@ -168,48 +168,108 @@ into the {body} of the default.hbs template -->
 <main id="site-main" class="site-main outer" role="main">
     <div class="inner">
 
-        <article class="post-full post tag-understanding-programmers ">
+        <article class="post-full post tag-studying-programming ">
 
             <header class="post-full-header">
                 <section class="post-full-meta">
-                    <time class="post-full-meta-date" datetime="17 December 2018">17 December 2018</time>
+                    <time class="post-full-meta-date" datetime=" 1 March 2019"> 1 March 2019</time>
                     
                         <span class="date-divider">/</span>
                         
                             
-                               <a href='/gramming/tag/understanding-programmers/'>UNDERSTANDING PROGRAMMERS</a>
+                               <a href='/gramming/tag/studying-programming/'>STUDYING PROGRAMMING</a>
                             
                         
                     
                 </section>
-                <h1 class="post-full-title">개발자 이해하기 시리즈 목차</h1>
+                <h1 class="post-full-title">교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</h1>
             </header>
 
             
-            <figure class="post-full-image" style="background-image: url(/gramming/assets/images/cover/programmer.jpg)">
+            <figure class="post-full-image" style="background-image: url(/gramming/assets/images/cover/circletable.jpg)">
             </figure>
             
 
             <section class="post-full-content">
                 <div class="kg-card-markdown">
-                    <h1 id="개발자-이해하기-시리즈-목차">개발자 이해하기 시리즈 목차</h1>
+                    <p><strong>교착상태(DeadLock)</strong> 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다.
+<br /> 컴퓨터 쪽으로 해석을 해 본다면, 운영체제나 소프트웨어가 자원(Resource)관리를 잘못하여 둘 이상의 프로그램이 다운되거나 운영체제가 멈춰버리는 현상이다.</p>
+
+<p><br /></p>
+<center>
+<a href="https://preamtree.tistory.com/18" targer="_blank">
+<img src="https://t1.daumcdn.net/cfile/tistory/21240A485803145830" alt="그림1" />
+</a>
+</center>
+<p><br /></p>
+
+<h2 id="교착상태의-발생조건">교착상태의 발생조건</h2>
+<p>교착상태가 발생하는 조건은 4가지가 있는데, 4가지 모두 만족해야만 교착상태가 일어난다. 조건 4가지는 다음과 같다.</p>
+
+<p><br /></p>
+
+<ol>
+  <li>상호 배제(Mutual exclusion)</li>
+  <li>점유 상태로 대기(Hold and wait)</li>
+  <li>선점 불가(No preemption)</li>
+  <li>순환성 대기(Circular wait)</li>
+</ol>
+
+<p><br /></p>
+
+<h3 id="1-상호-배제mutual-exclusion">1. 상호 배제(Mutual exclusion)</h3>
+
+<p>상호 배제는 프로그램들이 공유 자원을 동시에 쓸 수 없는 상황을 일컫는다. 상호 배제를 해제하는 것은 가장 확실한 교착상태 제거 방법이지만 잘 사용하지 않는다. 너무 엄격하기 때문이다. 줄여서 Mutex라고도 부른다. 자세한 것은 <a href="https://preamtree.tistory.com/26">여기</a>를 눌러 확인할 수 있다.<br />
+<br /></p>
+<h3 id="2-점유-상태로-대기-hold-and-wait">2. 점유 상태로 대기 (Hold and wait)</h3>
+
+<p>말 그대로 (공유)자원을 점유한 상태에서 다른 자원을 기다린다는 것. 할당받은 자원을 사용하지 않으면서 계속 점유하면 그 자원이 필요한 프로세스는 계속 대기하게 된다. 여기에 더하여 만약 순환성 대기(A-&gt;B-&gt;C-&gt;A)가 발생한다면…
+<br /></p>
+<h3 id="3-선점-불가no-preemption">3. 선점 불가(No preemption)</h3>
+
+<p>자원을 어떤 프로세스가 점유 중일 때, 다른 프로세스가 그 자원을 뺏을 수 없다는 것이다. 하지만 앞서 언급한 ‘점유 상태로 대기’와 같은 특수한 상황이 아니라면 자원을 뺏어오는 것은 매우 위험하다.
+<br /></p>
+<h3 id="4-순환성-대기circular-wait">4. 순환성 대기(Circular wait)</h3>
+
+<p>대기가 꼬리에 꼬리를 문 상황이다. 연쇄 대기를 해결하려고 해도 결국 자기 자신으로 돌아와 버리니 해결할 수가 없다.
+<br /><br /></p>
+
+<h2 id="식사하는-철학자들dining-philosopher">식사하는 철학자들(Dining Philosopher)</h2>
+<p>이제 식사하는 철학자(Dining Philosopher)에 대해 설명할 것이다. 식사하는 철학자 문제는 교착상태를 이해하는데 아주 좋은 예제이다.</p>
+
+<p>5명의 철학자가 원탁에 앉아 있고 각자의 앞에는 스파게티가 있다. 그리고 양 옆에 포크가 하나씩 있다. 각각의 철학자는 스파게티를 먹으려면 포크를 2개 사용해야하며, 다른 철학자에게 말을 걸 수 없고 포크를 빼앗을 수 없다는 조건이 있다. (아래 그림과 함께 보면 좋다.)</p>
+
+<p><br /></p>
+<center>
+<a href="https://preamtree.tistory.com/18" targer="_blank">
+<img src="https://t1.daumcdn.net/cfile/tistory/253CDD4B5802FBB52A" alt="그림2" />
+</a>
+</center>
+<p><br /></p>
+
+<p>이 상황에서 철학자들이 동시에 오른쪽 포크를 집어든다면? (철학자들이 프로세스, 포크가 자원이라고 생각하면 편하다.)
+ <br /></p>
+
 <ul>
-  <li>오해와 진실(1) 제가 개발자가 잘 맞을까요?</li>
-  <li>오해와 진실(2) 개발자는 개발만 잘하면 되나요?</li>
-  <li><a href="understanding-programmers-tip-3">흔한 개발자 분류 (1) : 사용하는 기술이 무엇?</a></li>
-  <li><a href="understanding-programmers-tip-4">안흔한 개발자 분류 (2): 일하는 방식이 무엇?</a></li>
-  <li><a href="understanding-programmers-tip-5">안흔한 개발자 분류 (3): 주로하는 업무는 무엇? 개발하는 비율?</a></li>
-  <li>어떤 회사들이 있을까? (1): IT 기업 규모별 분류</li>
-  <li>어떤 회사들이 있을까? (2): IT 기업 고객별 분류</li>
+  <li>철학자들은 포크를 공유할 수 없고<b>(상호 배제)</b></li>
+  <li>자신의 왼쪽에 앉은 철학자가 포크를 놓을 때까지 기다린다.<b>(점유 상태로 대기)</b></li>
+  <li>철학자들은 왼쪽 철학자의 포크를 빼앗을 방법이 없으며<b>(선점 불가)</b></li>
+  <li>각 철학자들은 자신의 왼쪽 철학자의 포크를 대기한다.<b>(순환대기)</b></li>
 </ul>
 
-<!-- #### 그 동안 받았던 질문에 대한 내용 (더 나누고 싶은 이야기)
-- 적성에 대한 고민
-- 공부 방법 및 방향에 대한 고민
-- 부족한 실력에 대한 고민
-- 관심이 지속될까에 대한 고민
-- 취업 관련 걱정
-- 스펙에 대한 고민 (나이 & 학벌) -->
+<p><br />
+위에서 다루었던 교착상태의 조건 4가지를 모두 만족했다. 그러므로 현재 교착상태이다. 이러한 교착 상태를 회피하려면 발생조건 4가지 중 한가지만 해제하면 된다.</p>
+
+<p>상호 배제와 선점 불가는 이 문제의 조건이므로 해소할 수 없다. ‘점유 상태로 대기’를 해제하려면 왼쪽 포크를 집을 수 없을 때, 오른쪽 포크를 식탁 위에 내려놓도록 하는 방법이 있다. ‘순환 대기’를 해소하려면 포크에 우선 순위를 매기는 방법이 있다.</p>
+
+<p><br /><br /><br /><br />
+-끝-
+<br /><br /><br /><br /><br /></p>
+
+<center>
+이 글은 <b>https://preamtree.tistory.com/18</b> 을 재구성하여 작성됐습니다.<br />
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+</center>
 
                 </div>
             </section>
@@ -237,22 +297,22 @@ into the {body} of the default.hbs template -->
                 <!-- #author-->
                 
                     
+                
+                    
                         <section class="author-card">
                             
-                                <img class="author-profile-image" src="/gramming/assets/images/author_jeongkoo.png" alt="jeongkoo" />
+                                <img class="author-profile-image" src="/gramming/assets/images/author_preamtree.png" alt="preamtree" />
                             
                             <section class="author-card-content">
-                                <h4 class="author-card-name"><a href="/gramming/author/jeongkoo">정쿠(Jeongkoo)</a></h4>
+                                <h4 class="author-card-name"><a href="/gramming/author/preamtree">preamtree</a></h4>
                                 
-                                    <p>프로그래머, 디지털노마드, 지속 가능한 행복을 추구하는 삶</p>
+                                    <p>글 잘쓰고 싶은 개발자. 카카오 주식회사에서 AI서비스개발자로 일하는 중.</p>
                                 
                             </section>
                         </section>
                         <div class="post-full-footer-right">
-                            <a class="author-card-button" href="/gramming/author/jeongkoo">Read More</a>
+                            <a class="author-card-button" href="/gramming/author/preamtree">Read More</a>
                         </div>
-                    
-                
                     
                 
                 <!-- /author  -->
@@ -337,13 +397,13 @@ s.setAttribute('data-timestamp', +new Date());
                     <article class="read-next-card"
                         
                             
-                                style="background-image: url(url(/gramming/assets/images/cover/programmer.jpg)"
+                                style="background-image: url(url(/gramming/assets/images/cover/circletable.jpg)"
                         
                     >
                         <header class="read-next-card-header">
                             <small class="read-next-card-header-sitetitle">&mdash; Gramming &mdash;</small>
                             
-                                <h3 class="read-next-card-header-title"><a href="/gramming/tag/understanding-programmers/">Understanding programmers</a></h3>
+                                <h3 class="read-next-card-header-title"><a href="/gramming/tag/studying-programming/">Studying programming</a></h3>
                             
                         </header>
                         <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
@@ -353,11 +413,7 @@ s.setAttribute('data-timestamp', +new Date());
                                 
                                 
                                   
-                                
-                                  
-                                
-                                  
-                                
+                                    
                                   
                                 
                                   
@@ -368,7 +424,7 @@ s.setAttribute('data-timestamp', +new Date());
                                     
                                         
                                         
-                                            <li><a href="/gramming/understanding-programmers-tip-5">안흔한 개발자 분류 (3) 주로하는 업무는 무엇? 개발하는 비율?</a></li>
+                                            <li><a href="/gramming/preamtree-mvc-pattern">MVC패턴과 모델1, 모델2</a></li>
                                         
                                     
                                   
@@ -376,25 +432,15 @@ s.setAttribute('data-timestamp', +new Date());
                                   
                                 
                                   
-                                    
-                                        
-                                        
-                                            <li><a href="/gramming/understanding-programmers-tip-4">안 흔한 개발자 분류 (2) 일하는 방식이 무엇?</a></li>
-                                        
-                                    
+                                
                                   
                                 
                                   
-                                    
-                                        
-                                        
-                                            <li><a href="/gramming/understanding-programmers-tip-3">흔한 개발자 분류 (1) 사용하는 기술이 무엇?</a></li>
-                                        
-                                    
+                                
                                   
                                 
                                   
-                                    
+                                
                                   
                                 
                                   
@@ -404,9 +450,9 @@ s.setAttribute('data-timestamp', +new Date());
                             </ul>
                         </div>
                         <footer class="read-next-card-footer">
-                            <a href="/gramming/tag/understanding-programmers/">
+                            <a href="/gramming/tag/studying-programming/">
                                 
-                                    See all 3 posts  →
+                                    See all 1 posts  →
                                 
                             </a>
                         </footer>
@@ -416,60 +462,18 @@ s.setAttribute('data-timestamp', +new Date());
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
             
-                
-    <article class="post-card post-template">
-        
-            <a class="post-card-image-link" href="/gramming/understanding-programmers-tip-3">
-                <div class="post-card-image" style="background-image: url(/gramming/assets/images/cover/folder.jpg)"></div>
-            </a>
-        
-        <div class="post-card-content">
-            <a class="post-card-content-link" href="/gramming/understanding-programmers-tip-3">
-                <header class="post-card-header">
-                    
-                        
-                            
-                                <span class="post-card-tags">Understanding programmers</span>
-                            
-                        
-                    
-
-                    <h2 class="post-card-title">흔한 개발자 분류 (1) 사용하는 기술이 무엇?</h2>
-                </header>
-                <section class="post-card-excerpt">
-                    <p>흔한 개발자 분류 : 기술분야에 따른 구 가장 흔하게 본인을 소개하거나, 직군을 뽑을 때 말하는 개발 분야 입니다. 웹 개발자 웹 프론트엔드 개발자 모바일 앱 개발자 시스템 프로그래머 모바일 게임 개발자 게임 서버</p>
-                </section>
-            </a>
-            <footer class="post-card-meta">
-                
-                    
-                        
-                        <img class="author-profile-image" src="/gramming/assets/images/author_jeongkoo.png" alt="정쿠(Jeongkoo)" />
-                        
-                        <span class="post-card-author">
-                            <a href="/gramming/author/jeongkoo/">정쿠(Jeongkoo)</a>
-                        </span>
-                    
-                
-                    
-                
-            </footer>
-        </div>
-    </article>
-
-            
 
             <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
             
                 
     <article class="post-card post-template">
         
-            <a class="post-card-image-link" href="/gramming/mentoring-record-1-2">
-                <div class="post-card-image" style="background-image: url(/gramming/assets/images/cover/welcome.jpg)"></div>
+            <a class="post-card-image-link" href="/gramming/mentoring-record-4">
+                <div class="post-card-image" style="background-image: url(/gramming/assets/images/cover/hope.jpg)"></div>
             </a>
         
         <div class="post-card-content">
-            <a class="post-card-content-link" href="/gramming/mentoring-record-1-2">
+            <a class="post-card-content-link" href="/gramming/mentoring-record-4">
                 <header class="post-card-header">
                     
                         
@@ -479,10 +483,10 @@ s.setAttribute('data-timestamp', +new Date());
                         
                     
 
-                    <h2 class="post-card-title">1st 멘토링 기록(2) - SI와 SM에 대하여, 포트폴리오 피드백</h2>
+                    <h2 class="post-card-title">Q. 왜 한국에서는 40대가 되면 프로그래머를 계속하기 어렵나요?</h2>
                 </header>
                 <section class="post-card-excerpt">
-                    <p>목차 첫번째 대화 다시보기 SI(시스템 통합), SM(시스템 운영)에 대하여 정쿠 보통 IT쪽에서의 대기업이 크게 (1) IT 인터넷 기업(IT 서비스 기업)과 (2)SI 대기업으로 나뉘거든요. 나중에 옮기실 때는, 서비스 기업 말고 SI 대기업을 목표로 하시는</p>
+                    <p>본 내용은 2019년 1월 온라인 스터디에서 받았던 질의응답 내용입니다. Q) 제 주위에는 50대 프로그래머(아직까지도 배우고자 하는 열정이 대단하심)도 꽤 있으신데, 왜 한국에서는 40대가 되면 프로그래머를 하기 어렵다고 하는 건가요? 관리직으로 이동하는 것 때문인가요?</p>
                 </section>
             </a>
             <footer class="post-card-meta">
@@ -522,19 +526,19 @@ s.setAttribute('data-timestamp', +new Date());
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">개발자 이해하기 시리즈 목차</div>
+    <div class="floating-header-title">교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</div>
     <div class="floating-header-share">
         <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
 </svg>
 </div>
-        <a class="floating-header-share-tw" href="https://twitter.com/share?text=%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0+%EC%8B%9C%EB%A6%AC%EC%A6%88+%EB%AA%A9%EC%B0%A8&amp;url=https://congchu.github.io/gramming/understanding-programmers-list"
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C%28Deadlock%29%EC%99%80+%EC%8B%9D%EC%82%AC%ED%95%98%EB%8A%94+%EC%B2%A0%ED%95%99%EC%9E%90%EB%93%A4%28Dining+Philosophers%29&amp;url=https://congchu.github.io/gramming/preamtree-deadlock-dining-philosophers"
             onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
 
         </a>
-        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://congchu.github.io/gramming/understanding-programmers-list"
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://congchu.github.io/gramming/preamtree-deadlock-dining-philosophers"
             onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
 
