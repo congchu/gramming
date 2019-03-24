@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://congchu.github.io//tag/understanding-programmers/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
-  <updated>2019-03-23T17:31:14+07:00</updated>
+  <updated>2019-03-24T17:43:44+07:00</updated>
   <id>https://congchu.github.io//tag/understanding-programmers/feed.xml</id>
 
   
@@ -307,24 +307,27 @@
 &lt;h4 id=&quot;웹-프론트엔드-개발자&quot;&gt;웹 프론트엔드 개발자&lt;/h4&gt;
 &lt;p&gt;이 안에서도 어떤 언어와 프레임워크를 주로 활용하느냐로 분류됩니다.&lt;/p&gt;
 
-&lt;h5 id=&quot;웹-백엔드-개발자-&quot;&gt;웹 백엔드 개발자 :&lt;/h5&gt;
-
+&lt;h5 id=&quot;웹-백엔드-개발자&quot;&gt;웹 백엔드 개발자&lt;/h5&gt;
 &lt;p&gt;그 다음으로 알기 쉬운 파트가 모바일입니다.
 모바일은 안드로이드 개발자, 아이폰 개발자로 나뉘지요.&lt;/p&gt;
 
 &lt;p&gt;가장 익숙하게 분류되는 것이 흔히 불리는 것이 웹 프론트엔드, 백엔드, 모바일 개발자이지요.
 그 다음으로는, 게임 서버 개발자, 게임 클라이언트 개발자 등이 있습ㄴ다.&lt;/p&gt;
 
-&lt;p&gt;모바일 앱 개발자
-시스템 프로그래머
-모바일 게임 개발자&lt;/p&gt;
-
-&lt;p&gt;게임 서버 개발자
-게임 클라이언트 개발자&lt;/p&gt;
-
-&lt;p&gt;DBA
-시스템 엔지니어
-빅데이터 엔지니어&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;모바일 앱 개발자&lt;/li&gt;
+  &lt;li&gt;시스템 프로그래머&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;모바일 게임 개발자&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 서버 개발자&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;게임 클라이언트 개발자&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DBA&lt;/li&gt;
+  &lt;li&gt;시스템 엔지니어&lt;/li&gt;
+  &lt;li&gt;빅데이터 엔지니어&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 

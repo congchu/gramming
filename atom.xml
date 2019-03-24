@@ -8,6 +8,21 @@
     
       
       <item>
+        <title>CPU 스케줄링 기법 (선점 스케줄링, 비선점 스케줄링)</title>
+        
+          <description>&lt;p&gt;※ 같이 보면 좋은 포스팅: &lt;a href=&quot;https://preamtree.tistory.com/10&quot;&gt;Process와 Thread의 비교&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 24 Mar 2019 17:00:00 +0700</pubDate>
+        <link>
+        http://localhost:4000/preamtree-cpu-scheduling</link>
+        <guid isPermaLink="true">http://localhost:4000/preamtree-cpu-scheduling</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</title>
         
           <description>&lt;p&gt;&lt;strong&gt;교착상태(DeadLock)&lt;/strong&gt; 는 두 개 이상의 작업이 서로 상대방의 작업이 끝나기 만을 기다리고 있기 때문에 결과적으로 아무것도 완료되지 못하는 상태를 가리킨다.

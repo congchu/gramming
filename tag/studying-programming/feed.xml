@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://congchu.github.io//tag/studying-programming/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://congchu.github.io/" rel="alternate" type="text/html" />
-  <updated>2019-03-23T17:31:14+07:00</updated>
+  <updated>2019-03-24T17:43:44+07:00</updated>
   <id>https://congchu.github.io//tag/studying-programming/feed.xml</id>
 
   
@@ -30,6 +30,117 @@
   
   
 
+  
+    <entry>
+      <title type="html">CPU 스케줄링 기법 (선점 스케줄링, 비선점 스케줄링)</title>
+      <link href="https://congchu.github.io" rel="alternate" type="text/html" title="CPU 스케줄링 기법 (선점 스케줄링, 비선점 스케줄링)" />
+      <published>2019-03-24T17:00:00+07:00</published>
+      <updated>2019-03-24T17:00:00+07:00</updated>
+      <id>https://congchu.github.io//preamtree-cpu-scheduling</id>
+      <content type="html" xml:base="https://congchu.github.io/{| absolute_url | xml_escape }}">&lt;p&gt;※ 같이 보면 좋은 포스팅: &lt;a href=&quot;https://preamtree.tistory.com/10&quot;&gt;Process와 Thread의 비교&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;프로세스(Process)가 구동하려면 다양한 시스템 자원이 필요하다. 대표적으로 CPU(중앙처리장치)와 입출력장치가 있는데, &lt;strong&gt;최고의 성능을 내기 위해 자원을 어떤 프로세스에 얼마나 할당하는지 정책을 만드는 것&lt;/strong&gt;을 CPU스케줄링이라고 한다. CPU스케줄링에 대해 알아보기 전에, 왜 필요한지 짚고 넘어갈 필요가 있다. (스케줄링 기법에 어떤 것들이 있는지 외우는 것보다 중요하다.)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/19&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/27033450580366160E&quot; alt=&quot;그림1&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;1-cpu-스케줄링을-배우는-이유&quot;&gt;1. CPU 스케줄링을 배우는 이유&lt;/h2&gt;
+&lt;p&gt;라면을 끓일 때, 물이 끓을 때까지 멍하니 기다리지는 않을 것이다. 라면 봉투를 미리 뜯어 놓기, 스프 미리넣기, 각종 재료를 미리 준비하기 등을 물이 끓는 것을 기다리면서 할 것이다. 여기서 CPU스케줄링을 착안하면 되겠다. 프로세스는 작업(Job)을 완료할 때까지 다양한 상태가 되는데, 우리가 주목해야할 것은 ‘Waiting’이다.&lt;/p&gt;
+
+&lt;p&gt;프로세스가 CPU를 점유하여 작업을 수행하는 도중 I/O 또는 Interrupt가 발생하면 일시적으로 프로세스는 CPU를 사용하지 않게 된다. 하지만 계속 점유하고 있다. 이러한 상황을 줄여, CPU를 최대한 활용하면 시스템의 성능 개선을 꾀할 수 있다. 결국, “어떻게 프로세스들이 CPU를 효율적으로 사용하게 할 것인가?” 라는 고민에서 CPU 스케줄링이 출발한다고 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://preamtree.tistory.com/19&quot; targer=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/2523283358036A5C1C&quot; alt=&quot;그림2&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;본격적으로 CPU 스케줄링에 대해 알아보겠다. CPU 스케줄링은 크게 두 가지로 분류되는데, 선점(Preemptive)스케줄링과 비선점(Non-Preemptive)스케줄링이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2선점--비선점-스케줄링&quot;&gt;2.선점 &amp;amp; 비선점 스케줄링&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;CPU가 이미 점유 중일 때, 우선 순위가 높은 프로세스가 CPU를 차지할 수 있음&lt;/li&gt;
+  &lt;li&gt;우선 순위가 높은 프로세스를 빠르게 처리해야할 경우 유용함.&lt;/li&gt;
+  &lt;li&gt;선점이 일어날 경우, 오버헤드가 발생하며 처리시간을 예측하기 힘듦.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;선점 스케줄링의 경우 위와 같은 특징이 있으며, &lt;strong&gt;비선점 스케줄링은 선점 스케줄링과 반대&lt;/strong&gt;이다. 선점 스케줄링의 경우에는 I/O요청, I/O응답, Interrupt발생, 작업완료 등의 상황에서 스케줄링이 일어날 수 있다. 하지만 비선점 스케줄링의 경우 프로세스가 스스로 CPU를 놓아주는 시점(작업이 완료되는 시점)에만 스케줄링이 일어난다.&lt;/p&gt;
+
+&lt;p&gt;(비)선점 스케줄링에 각각 속하는 CPU 스케줄링 알고리즘 기법은 다양하다. 그 알고리즘에 대해 간략히 소개하도록 하겠다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-1-선점-스케줄링&quot;&gt;2-1. 선점 스케줄링&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1-1. SRT(Shortest Remaining Time) 스케줄링&lt;/strong&gt;: 짧은 시간 순서대로 프로세스를 수행한다. 남은 처리 시간이 더 짧은 프로세스가 Ready 큐에 들어오면 그 프로세스가 바로 선점됨. 아래에 소개할 SJF의 선점 버전이라고 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-2. 라운드로빈(Round-Robin)스케줄링&lt;/strong&gt;: 각 프로세스는 같은 크기의 CPU 시간을 할당 받고 선입선출에 의해 행된다. 할당시간이 너무 크면 선입선출과 다를 바가 없어지고, 너무 작으면 오버헤드가 너무 커진다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-3. 다단계 큐(Multi-level Queue) 스케줄링&lt;/strong&gt;: Ready큐를 여러 개 사용하는 기법. 각각의 큐는 자신의 스케줄링 알고리즘을 수행하며, 큐와 큐 사이에도 우선순위를 부여한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-4. 다단계 피드백 큐 스케줄링&lt;/strong&gt;: 다단계 큐와 비슷하나 프로세스들이 큐를 이동할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2-2-비선점-스케줄링&quot;&gt;2-2. 비선점 스케줄링&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;1-1.  HRN(Highest response ratio next) 스케줄링&lt;/strong&gt;: 긴 작업과 짧은 작업간의 지나친 불평등을 어느 정도 보완한 기법. 수행시간의 길이와 대기 시간을 모두 고려해 우선순위를 정한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-2. SJF(Shortest Job First) 스케줄링&lt;/strong&gt;: 큐 안에 있는 프로세스 중 수행시간이 짧은 것을 먼저 수행. 평균 대기 시간을 감소시킨다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-3. 우선순위(priority) 스케줄링&lt;/strong&gt;: 프로세스에게 우선순위를 정적, 혹은 동적으로 부여하여 우선순위가 높은 순서대로 처리한다. 동적으로 부여할 경우, 구현이 복잡하고 오버헤드가 많다는 단점이 있으나, 시스템의 응답속도를 증가시킨다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-4. 기한부(Deadline) 스케줄링&lt;/strong&gt;: 작업을 명시된 시간이나 기한 내에 완료하도록 계획.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1-5. FIFO 스케줄링&lt;/strong&gt;: 프로세스들은 Ready큐에 도착한 순서대로 CPU를 할당 받는다. 작업 완료 시간을 예측하기 매우 용이하다. 하지만 덜 중요한 작업이 중요한 작업을 기다리게 할 수도 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;지금까지 CPU 스케줄링과 알고리즘에 대해 간략히 알아보았다. CPU 스케줄링은 운영체제가 사용자도 모르는 새 자동으로 진행하는 작업이다. 프로세스와 비슷한 성질을 띠는 스레드의 경우, 프로그램 개발자가 스케줄링 관련 코드를 삽입해야 한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
+-끝-
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+이 글은 &lt;b&gt;https://preamtree.tistory.com/19&lt;/b&gt; 을 재구성하여 작성됐습니다.&lt;br /&gt;
+&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;&lt;img alt=&quot;크리에이티브 커먼즈 라이선스&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+&lt;/center&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>preamtree</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Studying Programming" />
+      
+
+      
+        <summary type="html">※ 같이 보면 좋은 포스팅: Process와 Thread의 비교</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">교착상태(Deadlock)와 식사하는 철학자들(Dining Philosophers)</title>
